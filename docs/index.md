@@ -4,12 +4,6 @@ You can use the [editor on GitHub](https://github.com/prediktech/smarti-docs/edi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-- [second page](second-page.md)
-- [third page](third-page.md)
-
-1. [Overview](marketing/smarti-overview.md)
-2. [Assessments Help](assessment/assessment-home.md)
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
