@@ -21,8 +21,7 @@
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-        TOC
-        {% include_relative toc.md %}
+        
 
         Second TOC
         {% capture my_include %}{% include toc.md %}{% endcapture %}
