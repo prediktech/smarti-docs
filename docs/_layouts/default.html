@@ -22,11 +22,11 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         TOC
-        {% include_relative toc.md %}
+        {% include_relative {{site.logo | relative_url}} %}
 
         Second TOC
         {% capture my_include %}{% include toc.md %}{% endcapture %}
-        {{ my_include | markdownify }}
+        {{ my_include | relative_url | markdownify }}
       </header>
       <section>
 
