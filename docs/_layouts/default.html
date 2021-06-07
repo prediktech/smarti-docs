@@ -21,12 +21,11 @@
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-        TOC
-        {% include_relative {{site.logo | relative_url}} %}
 
         Second TOC
+
         {% capture my_include %}{% include toc.md %}{% endcapture %}
-        {{ my_include | relative_url | markdownify }}
+        {{ my_include | markdownify }}
       </header>
       <section>
 
