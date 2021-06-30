@@ -21,8 +21,10 @@
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-        Menu: 
-        {% include_relative menu.md %}
+        New Menu: 
+        {% capture my_include %}{% include menu.md %}{% endcapture %}
+        {{ my_include | markdownify }}
+        
       </header>
       <section>
 
