@@ -22,7 +22,7 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         Menu: 
-        {{menu.html | relative_url }}
+        {% include_relative menu.md %}
       </header>
       <section>
 
