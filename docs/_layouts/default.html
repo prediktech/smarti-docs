@@ -21,11 +21,8 @@
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-        Menu html:
-        {{menu.html | relative_url }}
-
         Menu: 
-        {% include_relative menu.md %}
+        {{menu.html | relative_url }}
       </header>
       <section>
 
