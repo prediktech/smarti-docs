@@ -1,11 +1,10 @@
 ## Pages
 
-* [second page](/second-page.html)
-    * [third page](/third-page.html)
+1. [second page](/second-page.html)
+2. [third page](/third-page.html)
 
 
-+ [Marketing](/marketing/smarti-overview.html)
-    + [Assessments](/assessment/assessment-home.html)
+3. [Marketing](/marketing/smarti-overview.html)
+    1. [Assessments](/assessment/assessment-home.html)
 
-- [Marketing](/marketing/smarti-overview.html)
-    - [Assessments](/assessment/assessment-home.html)
+
