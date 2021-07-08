@@ -1,0 +1,20 @@
+# Jobs
+- [User journey and what that means](/jobs/user-journey.md)
+    - [Accountable](/jobs/accountable.md) 
+    - [Assessor](/jobs/assessor.md) 
+    - [Feedback](/jobs/feedback.md) 
+    - [Planner](/jobs/planner.md) 
+    - [System Administrator](/jobs/sys-admin.md)
+- [Completing an Assessment](/jobs/completing-an-assessment.md)
+- [Review assessment before submission](/jobs/acc-review-before-submit.md)
+- [Providing feedback](/jobs/providing-feedback.md)
+- [Reviewing a submitted assessment](/jobs/assessor-review.md)
+- [OKR Planning](/jobs/okr.md)
+    - [Creating a maturity plan](/jobs/maturity-plan.md)
+    - [Create a more generic plan](/jobs/generic-plan.md)
+
+## Best Prcatices
+- [Capturing standards and requiremnts](/jobs/best-practice-standards.md)
+- [Shaping amazing questions]()
+- [Designing assessments based on your audience]()
+- [How to use planning to close the maturity loop]()
