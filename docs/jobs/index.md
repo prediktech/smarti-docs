@@ -1,6 +1,6 @@
 # Jobs
 - [Creating an account](/jobs/create-account.html)
-- [User journey and what that means](/jobs/user-journey.html)
+- [Personas](/jobs/persona.html)
     - [Accountable](/jobs/accountable.html) 
     - [Assessor](/jobs/assessor.html) 
     - [Feedback](/jobs/feedback.html) 

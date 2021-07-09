@@ -4,6 +4,9 @@
 
 When you have been added to your organisation by the system administrator you will be sent an email or message directing you to this article.
 
+> [!WARNING]
+> Microsoft IE is not supported!
+
 ## Prerequisites 
 - url to you SMART! instance (e.g. https://smarti.prediktech.com)
 - notified which email account as been added to the system.
