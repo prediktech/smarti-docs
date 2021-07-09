@@ -1,3 +1,5 @@
 # Maturity Scoring 
 
+`TODO: more detail needed as to how it is calculated`
+
 Once you are able to answer all questions on a maturity level as "Yes" then the maturity score will increase. A score of 2.4 for instance indicates that you are currently on a maturity level 2 and you have answered 40% of the maturity level 3 questions as "Yes". Answers for higher-level maturity levels are not shown and do not affect the score until the current maturity level has been completed. (Reports are able to extract these additional results if they are needed).
