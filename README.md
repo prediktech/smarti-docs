@@ -2,6 +2,10 @@
 Documentation Repository for SMART!
 https://docs.prediktech.com/
 
+> NB:
+> Always fetch from github before you make changes this way you are always working on the newest files. 
+![Image](/docs/assets/screenshots/github-fetch.png)
+
 ## Setup project to work locally
 1. download and install [Github Desktop](https://desktop.github.com/)
 2. Go to the (smarti-docs github site)[https://github.com/prediktech/smarti-docs]
@@ -22,4 +26,8 @@ https://docs.prediktech.com/
 Add a description of what you did and click **Commit to main**
 
 10. You have now "committed" / saved the changes to your local git repository. Next you need to push those changes to Github. Press the "Push origin" button. ![Image](/docs/assets/screenshots/github-push.png)
-11. You have successfully made changes to the documentation site. Wait a few minutes and open https://docs.prediktech.com/ [SMART! Documentation](https://docs.prediktech.com/) site to see if your changes are correct. 
+11. You have successfully made changes to the documentation site. Wait a few minutes and open https://docs.prediktech.com/ [SMART! Documentation](https://docs.prediktech.com/) site to see if your changes are correct.
+
+> NB:
+> Always fetch from github before you make changes this way you are always working on the newest files. 
+![Image](/docs/assets/screenshots/github-fetch.png)
