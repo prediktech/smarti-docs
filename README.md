@@ -17,4 +17,9 @@ https://docs.prediktech.com/
     4. [Typora](https://typora.io/) is a minimalist editor that can also be used. It is great if there is just one file you want to edit at a time.
 7. Once you have made changes to the files it is time to "Push" those changes back to github.
 8. Save all documents and then open Github desktop.
-9.    
+9. On the left of the screen you will see a list of the files you changed ![Image](/docs/assets/screenshots/github-commit.png).
+
+Add a description of what you did and click **Commit to main**
+
+10. You have now "committed" / saved the changes to your local git repository. Next you need to push those changes to Github. Press the "Push origin" button. ![Image](/docs/assets/screenshots/github-push.png)
+11. You have successfully made changes to the documentation site. Wait a few minutes and open https://docs.prediktech.com/ [SMART! Documentation](https://docs.prediktech.com/) site to see if your changes are correct. 
