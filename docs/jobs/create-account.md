@@ -20,7 +20,7 @@ When you have been added to your organisation by the system administrator you wi
     1. Click on "Complete"
 1. You will now be logged into the SMART! application, enjoy!
 
-## Something went wrong!
+## Troubleshooting
 If you are not logged in but are instead shown an error page. 
 - Please double check that you created an account with the correct email address. 
 - Make sure you were on the correct instance of SMART!.
