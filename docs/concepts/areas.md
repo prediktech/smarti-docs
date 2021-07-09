@@ -1,5 +1,7 @@
 # Areas
 
+`TODO: Add nice description of what areas are for`
+
 Areas can be added to a team. These can represent functional areas or departments that the team is responsible for. If these areas are enabled for the assessment they can be accessed via the  ![Image](/assets/screenshots/concepts/areaIcon.png) icon on the question screen.
 
 ![Image](/assets/screenshots/concepts/areas.png)
