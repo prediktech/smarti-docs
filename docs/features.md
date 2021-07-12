@@ -1,5 +1,6 @@
 # Features
-SMART! is offered at two levels, Enterprise and Basic.
+SMART! is offered at two levels, Enterprise and Basic.  
+Test this line.  
 |Feature|Enterprise|Basic|
 |-|-|-|
 | Companies/Sites/Departments |Unlimited|2|
