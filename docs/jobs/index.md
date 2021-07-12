@@ -14,8 +14,8 @@
     - [Creating a maturity plan](/jobs/maturity-plan.html)
     - [Create a more generic plan](/jobs/generic-plan.html)
 
-## Best Prcatices
+## Best Practices
 - [Capturing standards and requiremnts](/jobs/best-practice-standards.html)
 - [Shaping amazing questions]()
-- [Designing assessments based on your audience]()
+- [Designing assessments based on your audience](/jobs/designing-assessments.html)
 - [How to use planning to close the maturity loop]()

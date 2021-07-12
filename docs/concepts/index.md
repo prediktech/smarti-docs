@@ -1,5 +1,5 @@
 # Key Concepts
-Below is a list of the key concepts that SMARTi is built on.
+Below is a list of the key concepts that SMART! is built on.
 - [Screen Layout](/concepts/screen-layout.html)
 - [Maturity Scoring](/concepts/maturity-scoring.html)
 - [Approval Workflow](/concepts/approval-workflow.html)
