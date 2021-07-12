@@ -6,6 +6,9 @@ SMART! [pronounced smart-y] helps you and your organisation keep the important t
 
 With SMART! you'll not only meet, but exceed industry leading practice in compliance and maturity across all aspects of your business, be it in the management or technical arena.
 
+### [Features](/features.html)
+### [Benefits of SMART!](/benefits.html)
+
 ## How to use the help
 This help site is organised around "Jobs to be done" and "key concepts". 
 - [**Jobs**](/jobs/index.html): focus on providing information about how to do a specific job. For example you have been asked to [provide feedback on an assessment](/jobs/assessment/providing-feedback.html).

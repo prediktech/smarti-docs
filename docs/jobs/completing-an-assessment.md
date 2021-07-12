@@ -51,6 +51,9 @@ The % complete of this submission is calculated based on the number of items mar
 
 Click on the REVIEW button once done to review the submissions assigned to you as well as submit the submissions for approval.
 
+### Next Step
+[Review Submission](/jobs/acc-review-before-submit.html)
+
 ## Additional items
 - [What is second line assurance and why am I getting errors or warnings?](/concepts/second-line-assurance.html)
 - [Actions](/concepts/actions.html)

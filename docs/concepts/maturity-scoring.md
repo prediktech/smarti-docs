@@ -1,5 +1,13 @@
 # Maturity Scoring 
 
-`TODO: more detail needed as to how it is calculated`
+The maturity score indicates compliance to the questions within the maturity levels. The maturity level needs to be completed before the score will indicate achievement of that maturity level. In the below image a progress score of 2.4 indicates that maturity level 2 and below are totally compliant. Then the 0.4 indicates that 40% of maturity level 3 is compliant. 
 
-Once you are able to answer all questions on a maturity level as "Yes" then the maturity score will increase. A score of 2.4 for instance indicates that you are currently on a maturity level 2 and you have answered 40% of the maturity level 3 questions as "Yes". Answers for higher-level maturity levels are not shown and do not affect the score until the current maturity level has been completed. (Reports are able to extract these additional results if they are needed).
+>NB: Answers for higher-level maturity levels are not shown and do not affect the score until the current maturity level has been completed. (Reports are able to extract these additional results if they are needed).
+
+![Image](/assets/screenshots/concepts/scoreWidget.png)
+
+As questions are answered within the assessment, a progress score is calculated and displayed in the right-hand area of the assessment screen.
+
+## Advanced
+It is possible within the system to configure a threshold per maturity level. By default the system requires 100% compliance to a maturity level before it is considered achieved. You could set each maturity level to have a different compliance threshold. Level 2 for example could be set to 0.7 meaning that only 70% of the questions need to be answered as Yes for the maturity level to be considered as achieved. 
+> CAUTION: Using these threshold could make the scoring difficult to keep track of and therefore carefully.
