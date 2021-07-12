@@ -1,5 +1,5 @@
 # Features
-
+SMART! is offered at two levels, Enterprise and Basic.
 |Feature|Enterprise|Basic|
 |-|-|-|
 | Companies/Sites/Departments |Unlimited|2|
