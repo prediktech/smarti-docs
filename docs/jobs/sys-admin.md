@@ -1,5 +1,5 @@
 # System Administrator
-> Content under development
+
 
 The system administrators maintain the functions that have system wide impact. Many of the configuration aspects of the SMART! application can only be done as the SysAdmin.
 
