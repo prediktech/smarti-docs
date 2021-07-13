@@ -3,7 +3,7 @@ The approval workflow is provided to allow for opportunities to discuss the subm
 
 ![Image](/assets/screenshots/concepts/BasicApprovalWorkflow.png)
 
-**Pending:** When a new version or new Iteration of a submission is created it is placed in the pending state.
+**Pending:** When a new version or new iteration of a submission is created it is placed in the pending state.
 Results, open actions and evidence records are carried over to the new version. 
 
 **Submitted:** when the accountable person has completed and reviewed the submission they submit for approval. When submit is clicked the submission enters a “Submitted” state. The accountable person is able to “Retract” the submission and it will move back to the “Pending” state.
