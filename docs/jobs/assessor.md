@@ -18,7 +18,7 @@ Approved submissions will contain a number of actions that have been agreed upon
 - Assign accountable teams to submissions
 - Request feedback on a specific submission
 - Define the submission frequency and due dates
-- Review the submissions once complete (in collaboration with the accountable person)
+- [Review the submissions once complete](/jobs/assessor-review.html) (in collaboration with the accountable person)
 - Adjust submission responses, add additional actions, comments and evidence
 - Complete an assessment on behalf of the accountable person (Observation)
 - Approve or reject individual questions and/or submissions
