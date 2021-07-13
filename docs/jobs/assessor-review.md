@@ -16,7 +16,7 @@ The accountable response shown on the detail page also allows the user to change
 
 ![Image](/assets/screenshots/jobs/manageResponses.png)
 
-Best practice is for the assessor and the accountable person to perform the review together. In this case, as they discuss each question it may be required to adjust the score without “retracting” or “rejecting” the submission. The response can easily be adjusted here.
+Best practice is for the assessor and accountable user to perform the review together. In this case, as they discuss each question it may be required to adjust the score without “retracting” or “rejecting” the submission. The response can easily be adjusted here.
 
 If areas are enabled you are able to expand the response row and adjust responses per area.
 
@@ -25,11 +25,11 @@ If there is something wrong with the response to a question, the question requir
 
 ![Image](/assets/screenshots/jobs/rejectQuestion.png)
 
-All rejections require that an action be created. This is because you need to inform the accountable person what the reason for the rejection is. This allows you to track progress as actions are completed.
+All rejections require that an action be created. This is because you need to inform the accountable user what the reason for the rejection is. This allows you to track progress as actions are completed.
 
 Rejecting an entire submission allows the option of not creating an action but in that case, it is assumed actions have been created at the question level. 
 
-It is best practice to have a conversation with the accountable person as well as create actions to ensure there is a clear understanding as to the reason for the rejection, and the actions required for the submission to be approved.
+It is best practice to have a conversation with the accountable user as well as create actions to ensure there is a clear understanding as to the reason for the rejection, and the actions required for the submission to be approved.
 
 ## Approve / Reject Submission
 Once the review is completed it is time to Approve ![Image](/assets/screenshots/jobs/approve.png) or Reject ![Image](/assets/screenshots/jobs/reject.png) the submission.
@@ -55,7 +55,7 @@ After the version has been closed the old closed version is no longer displayed 
 After close, the new version with new submissions will be displayed. The new version will have the results, open actions and open evidence records copied over to the new version.
 
 ## Review Steps
-- Submission review meeting is scheduled between the assessor and accountable person to confirm the results, actions created and evidence provided.
+- Submission review meeting is scheduled between the assessor and accountable user to confirm the results, actions created and evidence provided.
 - During the review question responses may be adjusted, actions created, comments added and evidence supplied.
 - The question can be rejected if the required information is not currently available, with an action then created as a reminder to close the gap.
 - After the review the actions created are the plan for the next iteration of the assessment.
