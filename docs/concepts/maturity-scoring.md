@@ -9,5 +9,5 @@ The maturity score indicates compliance to the questions within the maturity lev
 As questions are answered within the assessment, a progress score is calculated and displayed in the right-hand area of the assessment screen.
 
 ## Advanced
-It is possible within the system to configure a threshold per maturity level. By default the system requires 100% compliance to a maturity level before it is considered achieved. You could set each maturity level to have a different compliance threshold. Level 2 for example could be set to 0.7 meaning that only 70% of the questions need to be answered as Yes for the maturity level to be considered as achieved. 
-> CAUTION: Using these threshold could make the scoring difficult to keep track of and therefore carefully.
+It is possible within the system to configure a threshold per maturity level. By default the system requires 100% compliance to a maturity level before it is considered achieved. You could set each maturity level to have a different compliance threshold. Level 2 for example could be set to 0.7 meaning that only 70% of the questions need to be answered _YES_ for the maturity level to be considered as achieved. 
+> CAUTION: Using these thresholds could make the scoring difficult to keep track of and therefore should be used very carefully.
