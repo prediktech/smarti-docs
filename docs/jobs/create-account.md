@@ -8,7 +8,7 @@ When you have been added to your organisation by the system administrator you wi
 > Microsoft IE is not supported!
 
 ## Prerequisites 
-- url to you SMART! instance (e.g. https://smarti.prediktech.com)
+- url to you SMART! instance (e.g., https://smarti.prediktech.com)
 - notified which email account as been added to the system.
 
 ## Process
