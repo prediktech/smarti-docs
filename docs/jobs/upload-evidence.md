@@ -10,7 +10,7 @@ You have two options: create a new evidence record, or link an existing evidence
 Click _"CREATE EVIDENCE RECORD"_.  
 ![Image](/assets/screenshots/jobs/evidence-newrecord.png)  
 Add a name for the evidence record, and click _"SAVE"_. This creates the record. Links or documents may be added/uploaded to the evidence record by clicking on the Links or Documents fields to reveal the _"ADD LINK"_ and _"SELECT FILES"_ buttons.
-[!Image](/assets/screenshots/jobs/evidence-add-link-doc.png)  
+![!Image](/assets/screenshots/jobs/evidence-add-link-doc.png)  
 
 
 
