@@ -22,5 +22,5 @@ Step 3: Assign actions
 A list of all actions within the assessment(s) selected in the previous step is displayed. Check the box against unassigned actions to assign them to the initiative. Click DONE when finished.
 
 Your maturity plan has been created.  
-![Image](/assets/screenshots/jobs/matuiryplan-created.png)
+![Image](/assets/screenshots/jobs/maturityplan-created.png)
 
