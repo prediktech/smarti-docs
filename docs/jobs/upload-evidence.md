@@ -24,7 +24,7 @@ Selected files will be shown as _pending_. Click the _"UPLOAD"_ button to add th
 
 ![Image](/assets/screenshots/jobs/evidence-fileandlink.png)
 
-Once an evidence record has been created with a link or file, you are able to edit via the ![image](/assets/screenshots/job/editIcon.png) icon. Links are able to be copied, or opened in a browser, and files are able to be downloaded.
+Once an evidence record has been created with a link or file, you are able to edit via the ![Image](/assets/screenshots/jobs/editIcon.png) icon. Links are able to be copied, or opened in a browser, and files are able to be downloaded.
 
 ## Link to existing record
 Click _"Show Link Evidence Records"_.  
