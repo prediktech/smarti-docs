@@ -1,10 +1,12 @@
-# Planning Module
-> Content under development
+# Planning module
+The SMART! planning module is based around the concept of OKRs (Objectives and Key Results). OKRs are a fairly simple framework for tracking and implementing things that you want to do. 
 
-describe the intent of the planning module
-OKR overview
-Objectives
-Initiatives
-links to
-- [Creating a maturity plan](/jobs/maturity-plan.html)
-- [Create a more generic plan](/jobs/generic-plan.html)
+The powerful aspect of using OKRs is it is a very repeatable process of defining things you want to achieve (**objectives**), and underneath those things, defining how you’re going to track whether or not you’ve achieved those things (those are your key results). Then, defining what it is that needs to be done in order to achieve these objectives (**initiatives**). The initiatives, in turn, also have key results. Key results can be thought of as metrics - lead and lag measures that you use to determine success or progress. The idea being that you can define any number of measures that determine at any point in time how well you are tracking.
+
+Within SMART!, we’ve changed the concept a little bit. Our objectives are not time-based. For example, your objective is to increase health and safety. Now that’s not something that ever stops. So, the objective can live forever, but the initiatives are all time-based. A finite initiative of increasing helath and safety could be annually reviewing  maintenance processes and ensuring that all safety standards are adhered to. This is an initiative that can be conducted regularly and, over time, build up a picture of improvement using the assessments and standards that are captured within the system to track your maturity over time towards that objective.
+
+You can create any number of objectives and you can create any number of metrics to measure those objectives. The planning module allows you to create objectives, and within those objectives define key results. Within each objective you can then also define initiatives or plans. The initiatives have key results and actions that need to be completed in order to achieve those initiatives.
+
+A plan has multiple time horizons. Within SMART! you are able to create two types of plans - a [maturity plan](/jobs/maturity-plan.html), and a _generic plan_. A maturity plan is linked to assessments and the maturity scores and targets are set based on those assessments. A generic plan has key results, and initiatives that have key results, but it is not linked to the assessments.
+
+You may have multiple plans, however only one plan may be active at any one time. The key results available are based on the current plan only.
