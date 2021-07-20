@@ -14,7 +14,6 @@ Add a name for the evidence record, and click _"SAVE"_. This creates the record.
 
 ### Add link
 Click the _"ADD LINK"_ button. 
-![Image](/assets/screenshots/jobs/evidence-addlink.png)  
 Fill in the details, and click _"SAVE"_.
 A link has been added to the evidence record.
 
@@ -25,4 +24,5 @@ Selected files will be shown as _pending_. Click the _"UPLOAD"_ button to add th
 
 ## Link to existing record
 Click _"Show Link Evidence Records"_.  
-Select the existing evidence record you wish to link to, and click _"LINK"_.
+Select the existing evidence record you wish to link to, and click _"LINK"_.  
+![Image](/assets/screenshots/jobs/evidence-link.png)
