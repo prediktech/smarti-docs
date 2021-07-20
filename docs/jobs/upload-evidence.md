@@ -22,9 +22,11 @@ Click the _"SELECT FILES"_ button.
 Browse to the file(s), select and click _"OPEN"_.  
 Selected files will be shown as _pending_. Click the _"UPLOAD"_ button to add the file(s).
 
+Once an evidence record has been created with a link or file, you are able to edit via the ![Image](/assets/screenshots/jobs/editIcon.png) icon. Links are able to be copied, or opened in a browser, and files are able to be downloaded.
+
 ![Image](/assets/screenshots/jobs/evidence-fileandlink.png)
 
-Once an evidence record has been created with a link or file, you are able to edit via the ![Image](/assets/screenshots/jobs/editIcon.png) icon. Links are able to be copied, or opened in a browser, and files are able to be downloaded.
+The evidence record, or link, or file may be deleted via the ![Image](/assets/screenshots/jobs/deleteIcon.png) icon.
 
 ## Link to existing record
 Click _"Show Link Evidence Records"_.  
