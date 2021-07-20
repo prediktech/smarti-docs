@@ -19,11 +19,10 @@ Fill in the details, and click _"SAVE"_.
 A link has been added to the evidence record.
 
 ### Select files
-Clik the _"SELECT FILES"_ button.
-
+Click the _"SELECT FILES"_ button.  
+Browse to the file(s), select and click _"OPEN"_.  
+Selected files will be shown as _pending_. Click the _"UPLOAD"_ button to add the file(s).
 
 ## Link to existing record
 Click _"Show Link Evidence Records"_.  
-![Image](/assets/screenshots/jobs/evidence-link.png)
 Select the existing evidence record you wish to link to, and click _"LINK"_.
-![Image](/assets/screenshots/jobs/evidence-linkedrecord.png)
