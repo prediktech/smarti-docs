@@ -10,7 +10,7 @@
 - [Review assessment before submission](/jobs/acc-review-before-submit.html)
 - [Providing feedback](/jobs/providing-feedback.html)
 - [Reviewing a submitted assessment](/jobs/assessor-review.html)
-- [OKR Planning](/jobs/okr.html)
+- [Using the planning module](/jobs/planning_module.html)
     - [Creating a maturity plan](/jobs/maturity-plan.html)
     - [Create a more generic plan](/jobs/generic-plan.html)
 

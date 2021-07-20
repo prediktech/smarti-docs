@@ -16,6 +16,7 @@ Below is a list of the key concepts that SMART! is built on.
 - [Metadata](/concepts/meta-data.html)
 - [Second Line Assurance](/concepts/second-line-assurance.html)
 - [Areas](/concepts/areas.html)
+- [Planning](/concepts/planning.html)
 
 ## Technical Concepts
 - [Integration Web hooks](/concepts/webhooks.html)
