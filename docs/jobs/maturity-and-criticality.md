@@ -11,7 +11,7 @@ The user will be prompted to provide either evidence or actions for 2nd Line Ass
 
 If this is not completed, then the submission will be highlighted as non-conforming
 
-- ![Image](/assets/screenshots/jobs/warningIcon.png) Warning icon for Maturity 1 question answered Yes with no evidence or comment.
-- ![Image](/assets/screenshots/jobs/errorIcon.png) Alert icon for Maturity 1 question answered No with no action assigned.
+- ![Image](../assets/screenshots/jobs/warningIcon.png) Warning icon for Maturity 1 question answered Yes with no evidence or comment.
+- ![Image](../assets/screenshots/jobs/errorIcon.png) Alert icon for Maturity 1 question answered No with no action assigned.
 
 _see [Second Line Assurance](/concepts/second-line-assurance.html) for more details._
