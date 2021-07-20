@@ -15,6 +15,7 @@ Below is a list of the key concepts that SMART! is built on.
 - [Companies, sites, departments and the teams that make them work](/concepts/companies-teams.html) 
 - [Metadata](/concepts/meta-data.html)
 - [Second Line Assurance](/concepts/second-line-assurance.html)
+- [Maturity and Criticality](/jobs/maturity-and-criticality.html)
 - [Areas](/concepts/areas.html)
 - [Planning](/concepts/planning.html)
 
