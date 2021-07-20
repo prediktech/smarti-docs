@@ -12,8 +12,18 @@ Click _"CREATE EVIDENCE RECORD"_.
 Add a name for the evidence record, and click _"SAVE"_. This creates the record. Links or documents may be added/uploaded to the evidence record by clicking on the Links or Documents fields to reveal the _"ADD LINK"_ and _"SELECT FILES"_ buttons.
 ![!Image](/assets/screenshots/jobs/evidence-add-link-doc.png)  
 
+### Add link
+Click the _"ADD LINK"_ button. 
+![Image](/assets/screenshots/jobs/evidence-addlink.png)  
+Fill in the details, and click _"SAVE"_.
+A link has been added to the evidence record.
+
+### Select files
+Clik the _"SELECT FILES"_ button.
 
 
 ## Link to existing record
 Click _"Show Link Evidence Records"_.  
 ![Image](/assets/screenshots/jobs/evidence-link.png)
+Select the existing evidence record you wish to link to, and click _"LINK"_.
+![Image](/assets/screenshots/jobs/evidence-linkedrecord.png)
