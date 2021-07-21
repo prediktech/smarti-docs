@@ -4,9 +4,9 @@ All submissions can be found and updated with additional comments, evidence and 
 
 The submission can be expanded to display all the sections that have been configured to be assessed.
 
-![Image](/assets/screenshots/jobs/reviewSubmissionAccountable.png)
+![Image](../assets/screenshots/jobs/reviewSubmissionAccountable.png)
 
-![Image](/assets/screenshots/jobs/AccReview-editresults.png)
+![Image](../assets/screenshots/jobs/AccReview-editresults.png)
 
 Create an action or add comments and evidence for the non-conforming question.
 

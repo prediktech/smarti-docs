@@ -44,9 +44,9 @@ See below the icons available for each question that allows you to add Comments,
 
 Click on "NEXT" to keep going with the submission or "EXIT" to return to the Assessment summary page.
 
-## Completing an Assessment (Submission)
+## Finalising an Assessment (Submission)
 Once all questions that can be answered have been answered (including uploading relevant evidence and creating actions and comments), mark that section of the assessment as **Complete**.
-![Image](/assets/screenshots/persons/MarkComplete.png)
+![Image](../assets/screenshots/persons/MarkComplete.png)
 
 The % complete of this submission is calculated based on the number of items marked as complete.
 
