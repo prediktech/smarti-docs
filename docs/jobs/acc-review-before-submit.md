@@ -8,13 +8,13 @@ The submission can be expanded to display all the sections that have been config
 
 ![Image](../assets/screenshots/jobs/AccReview-editresults.png)
 
-Create an action or add comments and evidence for the non-conforming question.
+Create an action or add comments and [evidence](/jobs/upload-evidence.html) for the non-conforming question.
 
 
 ## Next Steps
 - Complete the submission identifying the necessary evidence and creating improvement actions.
 - Submit the submission for review.
-- Submission is reviewed by the assessor.
+- Submission is reviewed by the Assessor.
 - Submission review meeting is scheduled to confirm the results and actions.
 - Follow-up actions may be required.
 - Submission is closed.
