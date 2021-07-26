@@ -9,17 +9,17 @@ The accountable user will complete assigned submissions. They will attach eviden
 - [Completing submissions](/jobs/assessment-home.html)
 - Reviewing feedback provided on submissions
 - Maintaining the status of actions required to close identified gaps.
-- Uploading evidence to prove compliance to specific assessment questions.
+- [Uploading evidence](/jobs/upload-evidence.html) to prove compliance to specific assessment questions.
 - Updating Key Results for initiatives assigned.
 
 ## Workflow
-![Image](/assets/screenshots/persons/BasicAccountableWorkflow.png)
+![Image](../assets/screenshots/persons/BasicAccountableWorkflow.png)
 
 When you first log into the application you will be shown the "My Tasks" dashboard. Here you can see submissions that you are either accountable for or have been requested to provide feedback for.
-![Image](/assets/screenshots/persons/myTasks.png)
+![Image](../assets/screenshots/persons/myTasks.png)
 
 You know you are accountable for a submission if you can see the "Do Assessment" button on the submission and you have a "REVIEW" button on the assignments section.
-![Image](/assets/screenshots/persons/myTasksAccountable.png)
+![Image](../assets/screenshots/persons/myTasksAccountable.png)
 
 **Assignments:** This means you have been assigned submissions within an assessment. You start completing the assigned submission by clicking on the "DO ASSESSMENT" button or by clicking on the "ASSESSMENTS/COMPLETE" menu option on the top of the page.  
 
