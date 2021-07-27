@@ -5,7 +5,7 @@ One of the primary responsibilities of the Assessor is to review assessments tha
 
 The review tab highlights issues to be corrected prior to submission approval.
 
-![Image](/assets/screenshots/persons/assessorReviewOverview.png)
+![Image](../assets/screenshots/persons/assessorReviewOverview.png)
 
 **Alerts:** These alerts are provided to highlight if 2nd Line of Assurance (High Risk) questions have been completed correctly. _(see [Second Line Assurance](/concepts/second-line-assurance.html) for more details)_
 
@@ -21,5 +21,5 @@ Approved submissions will contain a number of actions that have been agreed upon
 - [Review the submissions once complete](/jobs/assessor-review.html) (in collaboration with the accountable person)
 - Adjust submission responses, add additional actions, comments and evidence
 - Complete an assessment on behalf of the accountable person (Observation)
-- Approve or reject individual questions and/or submissions
+- [Approve or reject](/jobs/assessor-review.html) individual questions and/or submissions
 - Create a plan to close the identified gaps.

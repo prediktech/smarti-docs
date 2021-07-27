@@ -3,7 +3,7 @@ The feedback journey is used to gather information from people who are not accou
 
 A user in the system can be requested to provide feedback on one submission and be accountable on another. 
 
-Feedback users are able to answer questions and provide comments. The feedback provided is then considered by the accountable user and assessor while they review the submission.
+Feedback users are able to answer questions and provide comments. The feedback provided is then considered by the Accountable user and Assessor while they review the submission.
 
 >NB: if you are a feedback user on a submission you will not see that submission on the 'Review' screen.
 
