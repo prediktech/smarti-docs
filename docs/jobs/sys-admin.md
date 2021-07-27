@@ -8,7 +8,7 @@ The system administrators maintain the functions that have system wide impact. M
 ## Tasks
 - Configure companies
 - Manage users and teams
-- Manage system business rules and enabled features
+- Manage system business [rules](/jobs/rule-profiles.html) and enabled features
 - Manage Standards and requirements
 - Manage Assessment structure
 - Manage Question Catalog
