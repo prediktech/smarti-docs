@@ -23,4 +23,4 @@ Below is a list of the key concepts that SMART! is built on.
 - [Integration Web hooks](/concepts/webhooks.html)
 - [Data access via API Keys](/concepts/api-keys.html)
 - [Email Notifications](/concepts/email-notifications.html)
-- [Auditing](/concpets/auditing.html)
+- [Auditing](/concepts/auditing.html)
