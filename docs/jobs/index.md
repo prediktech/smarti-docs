@@ -1,6 +1,7 @@
 # Jobs
 
-All tasks within SMART! fall within the five user workflows, or personas.  
+All tasks within SMART! fall within the five user workflows, or personas. 
+ 
 [Creating an account](/jobs/create-account.html)  
 >## [Personas](/jobs/persona.html)
 
@@ -10,7 +11,7 @@ All tasks within SMART! fall within the five user workflows, or personas.
 - [Uploading evidence](/jobs/upload-evidence.html) to prove compliance to specific assessment questions.
 - Reviewing feedback provided on submissions
 - [Review assessment before submission](/jobs/acc-review-before-submit.html)
-- Maintaining the status of actions required to close identified gaps.
+- [Maintaining the status of actions](/jobs/updating-actions.html) required to close identified gaps.
 - Updating Key Results for initiatives assigned.
     
 ### [Assessor](/jobs/assessor.html) 
@@ -32,6 +33,7 @@ All tasks within SMART! fall within the five user workflows, or personas.
     - [Create a more generic plan](/jobs/generic-plan.html) 
     
 ### [System Administrator](/jobs/sys-admin.html)
+- Configure SMART! instance, customising display
 - Configure companies
 - Manage users and teams
 - Manage system business [rules](/jobs/rule-profiles.html) and enabled features
