@@ -27,6 +27,7 @@ All tasks within SMART! fall within the five user workflows, or personas.
 
 ### [Feedback](/jobs/feedback.html) 
 - [Providing feedback](/jobs/providing-feedback.html)
+
 ### [Planner](/jobs/planner.html)
 - [Using the planning module](/jobs/planning-module.html)
     - [Creating a maturity plan](/jobs/maturity-plan.html)
@@ -37,8 +38,8 @@ All tasks within SMART! fall within the five user workflows, or personas.
 - Configure companies
 - Manage users and teams
 - Manage system business [rules](/jobs/rule-profiles.html) and enabled features
-- Manage Standards and requirements
-- Manage Assessment structure
+- [Manage Standards and requirements](/jobs/manage-standards.html)
+- [Manage Assessment structure](/jobs/manage-assessment.html)
 - Manage Question Catalog
 - Manage integration (API keys, Web hooks) 
 - Manage notifications (Email)
