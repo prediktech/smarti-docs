@@ -1,7 +1,7 @@
 # Updating actions
 
 As actions are undertaken and completed, it is important to keep track of their progress, particularly if they form part of a plan.  
-Updating the status of an action may be completed from the My Tasks page, or by accessing through a submission.
+Updating the status of an action may be completed from the My Tasks page, or by accessing through a submission. The process is the same, regardless of how the action is accessed.
 
 All actions assigned to a user are displayed in the Actions area of My Tasks (landing page)
 ![Image](../assets/screenshots/jobs/MyTasks.png)
