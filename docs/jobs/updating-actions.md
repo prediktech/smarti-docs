@@ -43,5 +43,5 @@ From here, you can update the status and update submission questions linked to t
 Clicking **DONE** will close the action which is displayed in My Tasks as shown.
 ![Image](../assets/screenshots/jobs/closedAction.png)
 You can see the button which as previously **CLOSE** now reads **REOPEN**, and the Closed checkbox is ticked. Upon clicking **REOPEN**, you will be asked to confirm the reopen action.
-![Image](../assets/screenshots/jobs/reopenAction.png)
+![Image](../assets/screenshots/jobs/reopenAction.png)  
 Clicking **OK** will reopen the action. The Complete checkbox will be unticked, and the **REOPEN** button revert to **CLOSE**. No other settings are modified. 
