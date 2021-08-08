@@ -3,7 +3,11 @@ All plans or initiatives are created and managed through the Planning module. To
 
 >NB: The planning module must be enabled, and users set up to use the planning module, by a system administrator. If you are unable to access the Planning modeule, please check with your system administrator that it has been enabled and you have access.
 
+You may have multiple plans, however only one plan may be active at any one time. The key results available are based on the current plan only.
+
 Plans must be associated with an objective, and cannot be created without first creating and objective.
+
+A maturity plan is linked to assessments and the maturity scores and targets are set based on those assessments. 
 
 To create a new plan, click NEW on the right of the screen. A dialogue will be shown prompting you to enter details for the plan.  
 Step 1: Enter details of the plan  
