@@ -22,4 +22,4 @@ Approved submissions will contain a number of actions that have been agreed upon
 - Adjust submission responses, add additional actions, comments and evidence
 - Complete an assessment on behalf of the accountable person (Observation)
 - [Approve or reject](/jobs/assessor-review.html) individual questions and/or submissions
-- Create a plan to close the identified gaps.
+- [Create a plan](/jobs/plan.html) to close the identified gaps.
