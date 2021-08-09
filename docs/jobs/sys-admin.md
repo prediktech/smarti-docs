@@ -9,7 +9,7 @@ The system administrators maintain the functions that have system wide impact. M
 - Configure companies
 - Manage users and teams
 - Manage system business [rules](/jobs/rule-profiles.html) and enabled features
-- Manage Standards and requirements
+- [Manage Standards and requirements](/jobs/manage-standards.html)
 - Manage Assessment structure
 - Manage Question Catalog
 - Manage integration (API keys, Web hooks) 
