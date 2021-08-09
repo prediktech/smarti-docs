@@ -24,3 +24,4 @@ Below is a list of the key concepts that SMART! is built on.
 - [Data access via API Keys](/concepts/api-keys.html)
 - [Email Notifications](/concepts/email-notifications.html)
 - [Auditing](/concepts/auditing.html)
+- [Database Reset](/concepts/database-reset.html)
