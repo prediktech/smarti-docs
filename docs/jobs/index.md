@@ -12,7 +12,7 @@ All tasks within SMART! fall within the five user workflows, or personas.
 - Reviewing feedback provided on submissions
 - [Review assessment before submission](/jobs/acc-review-before-submit.html)
 - [Maintaining the status of actions](/jobs/updating-actions.html) required to close identified gaps.
-- Updating Key Results for initiatives assigned.
+- Updating [Key Results](../jobs/key-result.html) for initiatives assigned.
     
 ### [Assessor](/jobs/assessor.html) 
 - Define required submissions
