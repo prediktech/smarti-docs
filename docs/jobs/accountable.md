@@ -8,9 +8,9 @@ The accountable user will complete assigned submissions. They will attach eviden
 ## Tasks
 - [Completing submissions](/jobs/completing-an-assessment.html)
 - Reviewing feedback provided on submissions
-- Maintaining the status of actions required to close identified gaps.
+- [Maintaining the status of actions](/jobs/updating-actions.html) required to close identified gaps.
 - [Uploading evidence](/jobs/upload-evidence.html) to prove compliance to specific assessment questions.
-- Updating Key Results for initiatives assigned.
+- Updating [Key Results](/jobs/key-results.html) for initiatives assigned.
 
 ## Workflow
 ![Image](../assets/screenshots/persons/BasicAccountableWorkflow.png)
