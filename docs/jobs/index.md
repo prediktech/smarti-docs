@@ -30,8 +30,8 @@ All tasks within SMART! fall within the five user workflows, or personas.
 
 ### [Planner](/jobs/planner.html)
 - [Using the planning module](/jobs/planning-module.html)
-    - [Creating a maturity plan](/jobs/maturity-plan.html)
-    - [Create a more generic plan](/jobs/generic-plan.html) 
+    - [Creating a plan](/jobs/plan.html) (maturity or generic)
+     
     
 ### [System Administrator](/jobs/sys-admin.html)
 - Configure SMART! instance, customising display
