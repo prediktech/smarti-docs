@@ -23,3 +23,9 @@ Approved submissions will contain a number of actions that have been agreed upon
 - Complete an assessment on behalf of the accountable person (Observation)
 - [Approve or reject](/jobs/assessor-review.html) individual questions and/or submissions
 - [Create a plan](/jobs/plan.html) to close the identified gaps.
+
+
+## Workflow
+![Image](../assets/screenshots/persons/AssessorWorkflow.png)
+
+When you first log into the application you will be shown the "Review" screen. This will show all the assessments available for review.
