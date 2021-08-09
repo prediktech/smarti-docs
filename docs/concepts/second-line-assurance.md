@@ -1,4 +1,9 @@
 # Second Line Assurance
+There are typically three levels of assurance:   
+- **Level 1** is where the business (or site) verifies their own systems.  
+- **Level 2** is where a Group function (internal to the greater business but external from the site) will come and perform a review on specific aspects that are considered critical from a business risk and continuity perspective.   
+- **Level 3** is when an external auditor comes in and performs the assessment.
+
 Second line of assurance questions are related to statutory, high risk, or critical requirements. These questions are identified by the ![Image](/assets/screenshots/concepts/secondLineIcon.png) icon.
 
 ![Image](/assets/screenshots/concepts/question.png)
