@@ -18,3 +18,13 @@ You are able to select if the assessment is core (the assessment can only be cop
 
 ## Managing Maturity Levels
 ![Image](../assets/screenshots/jobs/manageMaturityLevel.png)
+
+## Managing Structure
+![Image](../assets/screenshots/jobs/manageStructure.png)
+
+Each element, subelement and quality within the assessment structure is able to be edited by clicking the edit icon ![image](../assets/screenshots/jobs/editIcon.png)
+
+## Managing Questions
+![Image](../assets/screenshots/jobs/manageQuestions.png)
+
+Select the element, subelement, quality and maturity level to display the configured questions.
