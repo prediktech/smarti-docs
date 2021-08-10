@@ -37,6 +37,8 @@ A list of all actions within the assessment(s) selected in the previous step is 
 Your maturity plan has been created.  
 ![Image](../assets/screenshots/jobs/maturityplan-created.png)
 
+Once a plan has been created,  [key results](../jobs/key-results.html) may be added.
+
 ## Generic Plan
 A generic plan has key results, and initiatives that have key results, but it is not linked to the assessments.
 
@@ -56,3 +58,5 @@ Click _SAVE_.
 
 Your generic plan has been created.
 ![image](../assets/screenshots/jobs/genericplan-created.png)
+
+Once a plan has been created, [key results](../jobs/key-results.html) may be added.
