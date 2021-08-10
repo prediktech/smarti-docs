@@ -8,6 +8,7 @@ The accountable user will complete assigned submissions. They will attach eviden
 ## Tasks
 - [Completing submissions](/jobs/completing-an-assessment.html)
 - Reviewing feedback provided on submissions
+- Endorsing and communicating the plan to the team and feedback users.
 - [Maintaining the status of actions](/jobs/updating-actions.html) required to close identified gaps.
 - [Uploading evidence](/jobs/upload-evidence.html) to prove compliance to specific assessment questions.
 - Updating [Key Results](/jobs/key-results.html) for initiatives assigned.
