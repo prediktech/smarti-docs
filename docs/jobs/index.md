@@ -36,7 +36,7 @@ All tasks within SMART! fall within the five user workflows, or personas.
 ### [System Administrator](/jobs/sys-admin.html)
 - Configure SMART! instance, customising display
 - Configure companies
-- Manage users and teams
+- [Manage users and teams](/jobs/manage-users.html)
 - Manage system business [rules](/jobs/rule-profiles.html) and enabled features
 - [Manage Standards and requirements](/jobs/manage-standards.html)
 - [Manage Assessment structure](/jobs/manage-assessment.html)
