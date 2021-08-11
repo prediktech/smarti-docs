@@ -1,7 +1,7 @@
 # Completing an assessment
 Click on the _DO ASSESSMENT_ button from the My Tasks dashboard or from the menu bar select _ASSESSMENT_ and then click _COMPLETE._ You will be shown the assessment details that can be completed.
 
-![Image](../assets/screenshots/persons/doAssessment.png)
+![Image](../assets/screenshots/jobs/doAssessment.png)
 
 Click on the _"DO ASSESSMENT"_ button to work on that section of the assessment. Once you have answered all the questions you are able to for this submission click on the "MARK COMPLETE" check box next to the _"DO ASSESSMENT"_ button to indicate that you are done with that section.
 
