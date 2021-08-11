@@ -18,6 +18,21 @@ Click the schedule icon ![image](../assets/screenshots/jobs/scheduleIcon.png) ne
 
 Make required changes, and click _SAVE_ when done.
 
+## Define Submission Frequency
+Click the schedule icon ![image](../assets/screenshots/jobs/scheduleIcon.png) next to the submission.
+![image](../assets/screenshots/jobs/submissionFreq.png)
+
+The submission frequency refers to the number of iterations of a submission that make up a version of an assessment. ``For example...``
+
+## Define due date
+The due date for each submission is automatically calculated based on the due date of the version and the submission frequency.
+
+Start and due dates for assessment versions may be edited by clicking the edit icon ![image](../assets/screenshots/jobs/editIcon.png) next to the relevant version.
+![Image](../assets/screenshots/jobs/editVersion.png)
+Click on the date and use the calendar to select the new Start/Due date.
+![image](../assets/screenshots/jobs/calendar.png)
+
+
 ## Assign Teams and Request Feedback
 Click the schedule icon ![image](../assets/screenshots/jobs/scheduleIcon.png) next to the submission.
 
