@@ -14,10 +14,10 @@ Assessors will likely have the ability to create assessment submissions, allocat
 Approved submissions will contain a number of actions that have been agreed upon between the organisation, accountable user and the assessor. These actions form the "Maturity Plan" for the next period. If the planning module is enabled and the assessor has planning rights they can also create detailed plans to track and prioritise the maturity activities.
 
 ## Tasks
-- Define required submissions
-- Assign accountable teams to submissions
-- Request feedback on a specific submission
-- Define the submission frequency and due dates
+- [Define required submissions](/jobs/define-submissions.html)
+- [Assign accountable teams to submissions](/jobs/define-submissions.html)
+- [Request feedback on a specific submission](/jobs/define-submissions.html)
+- [Define the submission frequency and due dates](/jobs/define-submissions.html)
 - [Review the submissions once complete](/jobs/assessor-review.html) (in collaboration with the accountable person)
 - Adjust submission responses, add additional actions, comments and evidence
 - Complete an assessment on behalf of the accountable person (Observation)
