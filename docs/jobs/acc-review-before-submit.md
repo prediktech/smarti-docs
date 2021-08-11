@@ -1,6 +1,8 @@
 # Review assessment before submitting for approval
 
-All submissions can be found and updated with additional comments, evidence and actions in the review tab. The review tab highlights issues to be corrected prior to submission.
+All submissions can be viewed, including responses provided by the feedback user (if requested), and updated with additional comments, evidence and actions in the review tab. The review tab highlights issues to be corrected prior to submission.
+
+Navigate to the Review page by clicking the REVIEW button in the Assignments section of My Tasks, or selecting Assessments -> Review from the menu bar.
 
 The submission can be expanded to display all the sections that have been configured to be assessed.
 
@@ -8,13 +10,18 @@ The submission can be expanded to display all the sections that have been config
 
 ![Image](../assets/screenshots/jobs/AccReview-editresults.png)
 
+Feedback responses (if provided) are displayed, along with any comments they may have added.
+![image](../assets/screenshots/jobs/feedback-scores.png)
+
 Create an action or add comments and [evidence](/jobs/upload-evidence.html) for the non-conforming question.
+
+
 
 
 ## Next Steps
 - Complete the submission identifying the necessary evidence and creating improvement actions.
 - Submit the submission for review.
-- Submission is reviewed by the Assessor.
+- Submission is reviewed by the Assessor (best practice is for the assessor and accountable users to review submissions together).
 - Submission review meeting is scheduled to confirm the results and actions.
 - Follow-up actions may be required.
 - Submission is closed.
