@@ -14,4 +14,15 @@ Feedback users are able to answer questions and provide comments. The feedback p
 - Add comments to existing actions
 - View the evidence records that have been created
 
-`TO DO: Add workflow diagram for feedback user`
+## Workflow
+![image](../assets/screenshots/persons/FeedbackWorkflow.png)
+
+When you first log into the application you will be shown the "My Tasks" dashboard. Here you can see submissions that you are either accountable for or have been requested to provide feedback for.
+![Image](../assets/screenshots/persons/myTasks.png)
+
+You know you have been assigned to give feedback for a submission if you can see the "Give Feedback" button on the submission.
+![Image](../assets/screenshots/persons/myTasksFeedback.png)
+
+**Assignments:** This means you have been assigned to give feedback on submissions within an assessment. You start completing the assigned submission by clicking on the "GIVE FEEDBACK" button or by clicking on the "ASSESSMENTS/COMPLETE" menu option on the top of the page.  
+
+**Actions:** This area shows all actions within the submissions that have been assigned to you for feedback. Note that the feedback user is _not_ accountable for the completion of actions.
