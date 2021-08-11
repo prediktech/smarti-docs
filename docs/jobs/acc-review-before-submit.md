@@ -10,9 +10,6 @@ The submission can be expanded to display all the sections that have been config
 
 ![Image](../assets/screenshots/jobs/AccReview-editresults.png)
 
-Feedback responses (if provided) are displayed, along with any comments they may have added.
-![image](../assets/screenshots/jobs/feedback-scores.png)
-
 Create an action or add comments and [evidence](/jobs/upload-evidence.html) for the non-conforming question.
 
 
