@@ -3,10 +3,6 @@ One of the primary responsibilities of the Assessor is to review assessments tha
 
 > NB: An assessor is able to modify responses on behalf of the accountable person. The assessor is also able to add actions, comments and evidence as needed.
 
-
-## Workflow
-![Image](../assets/screenshots/persons/AssessorWorkflow.png)
-
 ## Tasks
 - [Define required submissions](/jobs/define-submissions.html)
 - [Assign accountable teams to submissions](/jobs/define-submissions.html)
@@ -17,7 +13,10 @@ One of the primary responsibilities of the Assessor is to review assessments tha
 - Complete an assessment on behalf of the accountable person (Observation)
 - [Approve or reject](/jobs/assessor-review.html) individual questions and/or submissions
 - [Create a plan](/jobs/plan.html) to close the identified gaps.
-  
+
+## Workflow
+![Image](../assets/screenshots/persons/AssessorWorkflow.png)
+ 
 ## Review
 When you first log into the application you will be shown the "Review" screen. This will show all the assessments available for review.
 The review tab highlights issues to be corrected prior to submission approval.
