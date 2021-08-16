@@ -1,6 +1,9 @@
 # Manage Users and Teams
 > Managing users and teams may only be completed by a system or company administrator.
 
+This is completed at an organisation or site level (selected from the drop down menu and displayed at the top of the page).
+![image](../assets/screenshots/jobs/companyUsers.png)
+
 ## Manage Users
 Navigate to the Users page
 1. Log in as a user with administrative privileges.
