@@ -32,3 +32,9 @@ If a file is uploaded, a checkmark will be displayed in the Documentation field.
 
 Files may be downloaded and links copied or browsed to by clicking the relevant icons.
 ![image](../assets/screenshots/jobs/DocActions.png)
+
+### Delete Question
+To delete a question, click on the delete icon ![image](../assets/screenshots/jobs/deleteIcon.png).
+
+You will be prompted to confirm the deletion. Click _OK_ to confirm.
+![image](../assets/screenshots/jobs/deleteQ.png)
