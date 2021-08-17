@@ -1,7 +1,8 @@
 # Manage Notifications
 >Note: Email notifications can only be set up and modified by system administrators.
 
-Notifications are managed within System Settings. Browse to _Settings -> Advanced Settings -> System Settings_.
+Notifications are managed within System Settings. Browse to _Settings -> Advanced Settings -> System Settings_.  
+
 ![image](../assets/screenshots/jobs/menu-systemsettings.png)
 
 ## Set url
