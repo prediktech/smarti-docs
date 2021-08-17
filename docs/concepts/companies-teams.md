@@ -17,8 +17,5 @@ In this situation, Bob could be set up as the accountable person for the assessm
 
 ## Teams
 Teams provide groupings of users within companies. Each team is given permissions.
-### Example:
-Imagine we have a system set up with the following teams.
-- Team 1
-- Team 2
+
 
