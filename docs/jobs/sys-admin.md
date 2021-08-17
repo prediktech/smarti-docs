@@ -14,7 +14,7 @@ The system administrators maintain the functions that have system wide impact. M
 - [Manage Assessment structure](/jobs/manage-assessment.html)
 - [Manage Question Catalogue](/jobs/manage-questions.html)
 - Manage integration (API keys, Web hooks) 
-- Manage notifications (Email)
+- [Manage notifications (Email)](/jobs/manage-notifications.html)
 
 ## Workflow
 ![image](../assets/screenshots/persons/SysAdminWorkflow.png)

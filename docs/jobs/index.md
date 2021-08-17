@@ -42,7 +42,7 @@ All tasks within SMART! fall within the five user workflows, or personas.
 - [Manage Assessment structure](/jobs/manage-assessment.html)
 - [Manage Question Catalogue](/jobs/manage-questions.html)
 - Manage integration (API keys, Web hooks) 
-- Manage notifications (Email)
+- [Manage notifications (Email)](/jobs/manage-notifications.html)
 
 
 >## Best Practices
