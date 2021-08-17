@@ -10,7 +10,10 @@ The system administrators maintain the functions that have system wide impact. M
 - [Manage users and teams](/jobs/manage-users.html) 
 - Manage system business [rules](/jobs/rule-profiles.html) and enabled features
 - [Manage Standards and requirements](/jobs/manage-standards.html)
-- Manage Assessment structure
-- Manage Question Catalog
+- [Manage Assessment structure](/jobs/manage-assessment.html)
+- [Manage Question Catalogue](/jobs/manage-questions.html)
 - Manage integration (API keys, Web hooks) 
 - Manage notifications (Email)
+
+## Workflow
+![image](../assets/screenshots/persons/SysAdminWorkflow.png)
