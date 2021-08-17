@@ -7,7 +7,7 @@ Below is a list of the key concepts that SMART! is built on.
 - [Evidence](/concepts/evidence.html)
 - [Comments](/concepts/comments.html)
 - [Standards and Requirements](/concepts/standards-requirements.html)
-- [Question Catalog](/concepts/question-catalog.html)
+- [Question Catalogue](/concepts/question-catalogue.html)
 - [Assessments](/concepts/assessments.html)
     - [Building Assessments](/concepts/building-assessments.html)
     - [Versions and Submissions](/concepts/versions-submissions.html)
