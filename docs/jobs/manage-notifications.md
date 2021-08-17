@@ -27,7 +27,7 @@ Enabling the test mode allows you to send all generated emails to a specified li
 ![image](../assets/screenshots/jobs/enabletestmode.png)
 
 ### Force Event Queue
-Clicking the _FORCE EVENT QUEUE_ button will send all configured emails to send immediately. Click _OK_ to confirm.
+Clicking the _FORCE EVENT QUEUE_ button will set all configured emails to send immediately. Click _OK_ to confirm.
 ![image](../assets/screenshots/jobs/confirm-forcesend.png)
 
 
