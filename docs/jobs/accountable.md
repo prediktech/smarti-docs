@@ -6,13 +6,13 @@ Therefore a single person is configured as being accountable within a team. This
 The accountable user will complete assigned submissions. They will attach evidence or provide comments for items of compliance as well as creating actions to close identified gaps. The accountable person is held responsible for the compliance and maturity improvement for the assigned submissions. Once they have completed the submission they are able to "Submit" and perform a review in collaboration with the Assessor.
 
 ## Tasks
-- [Completing submissions](/jobs/completing-an-assessment.html)
-- [Reviewing feedback provided on submissions](/jobs/review-feedback.html)
-- Endorsing and communicating the plan to the team and feedback users.
-- [Maintaining the status of actions](/jobs/updating-actions.html) required to close identified gaps.
+-  [Completing submissions](/jobs/completing-an-assessment.html)
 - [Uploading evidence](/jobs/upload-evidence.html) to prove compliance to specific assessment questions.
-- Updating [Key Results](/jobs/key-results.html) for initiatives assigned.
-
+- [Reviewing feedback provided on submissions](/jobs/review-feedback.html)
+- [Review assessment before submission](/jobs/acc-review-before-submit.html)
+-  [Updating submissions (rejected submission)](/jobs/acc-rejected-submission.html)
+- [Maintaining the status of actions](/jobs/updating-actions.html) required to close identified gaps.
+- Updating [Key Results](../jobs/key-result.html) for initiatives assigned.
 ## Workflow
 ![Image](../assets/screenshots/persons/BasicAccountableWorkflow.png)
 

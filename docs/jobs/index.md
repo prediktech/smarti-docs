@@ -11,6 +11,7 @@ All tasks within SMART! fall within the five user workflows, or personas.
 - [Uploading evidence](/jobs/upload-evidence.html) to prove compliance to specific assessment questions.
 - [Reviewing feedback provided on submissions](/jobs/review-feedback.html)
 - [Review assessment before submission](/jobs/acc-review-before-submit.html)
+-  [Updating submissions (rejected submission)](/jobs/acc-rejected-submission.html)
 - [Maintaining the status of actions](/jobs/updating-actions.html) required to close identified gaps.
 - Updating [Key Results](../jobs/key-result.html) for initiatives assigned.
     
