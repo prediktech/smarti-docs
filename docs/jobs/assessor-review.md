@@ -50,6 +50,10 @@ The assessor can choose to simply close the version and not create a new version
 
 Or, (**recommended**) the assessor creates a new version by leaving the “Copy and create new version on close” box ticked. The details for the new version can easily be modified at a later date.
 
+If Reset Scores has been enabled and configured (see [Rule Profiles](/jobs/rule-profiles.html) on how to configure), the Assessor will be asked to reset scores on closing a version.
+![image](../assets/screenshots/jobs/resetscores.png)
+
+
 After the version has been closed the old closed version is no longer displayed on the review screen.
 
 After close, the new version with new submissions will be displayed. The new version will have the results, open actions and open evidence records copied over to the new version.
