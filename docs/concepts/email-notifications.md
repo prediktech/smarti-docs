@@ -6,3 +6,11 @@ Emails types are:
 - Action
 - Approval Workflow
 
+## Acountable Weekly Digest
+This email contains
+
+### Action Email
+This email contains
+
+### Approval Workflow Email
+This email contains

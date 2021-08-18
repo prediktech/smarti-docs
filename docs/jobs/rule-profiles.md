@@ -21,10 +21,10 @@ There are three options for this setting:
 - On all
 
 ## Non Comply Stop Approval
-When enabled, this setting stops the assessment of submission from being approved or closed if there are any non-complying elements.
+When enabled, this setting stops the assessment or submission from being approved or closed if there are any non-complying elements.
 
 ## Show Evidence Required
->conent coming soon
+>content coming soon
 
 
 ## Stop on Fail  
