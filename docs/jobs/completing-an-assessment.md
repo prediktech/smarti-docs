@@ -39,7 +39,7 @@ If you answer **Yes** to a question it is recommended that you also provide **ev
 
 If you answer **No** to a question it is recommended that you create an **action** to indicate how this situation will be resolved in the future.
 
-See below the icons available for each question that allows you to add Comments, Evidence and Actions respectively. (the final icon indicates areas are active on this submission, see [Areas](/concepts/areas.html))
+See below the icons available for each question that allows you to add Comments, Evidence and Actions respectively. (The final icon indicates areas are active on this submission, see [Areas](/concepts/areas.html).)
 ![Image](../assets/screenshots/persons/aecScreens.png)
 
 Click on "NEXT" to keep going with the submission or "EXIT" to return to the Assessment summary page.
