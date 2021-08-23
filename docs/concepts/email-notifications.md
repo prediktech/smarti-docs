@@ -1,7 +1,7 @@
 # Email notifications
 
 Regular emails updates are able to be configured. These emails provide a summary of the information in SMART!. 
-Emails types are:
+Email types are:
 - Accountable Weekly Digest
 - Action
 - Approval Workflow
@@ -10,7 +10,7 @@ Emails types are:
 This email contains
 
 ### Action Email
-This email contains
+This email contains a list of open actions.
 
 ### Approval Workflow Email
 This email contains
