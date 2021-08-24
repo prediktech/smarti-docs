@@ -16,6 +16,7 @@ Bob is the "East Region" manager and he is accountable for the implementation of
 In this situation, Bob could be set up as the accountable person for the assessments within the "East Region" and also have the permissions for scheduling and managing the assessments in the "East Region". Bob, however, is only required to provide feedback at the "HQ" level so he will have a different set of permissions for that entity.
 
 ## Teams
-Teams provide groupings of users within companies. Each team is given permissions.
+Teams provide groupings of users within companies. 
+To best identify appropriate teams, a submission matrix identifying what needs to be answered by which team should be defined. Teams are then created based on this matrix and will typically be aligned to the business organisational structure.
 
 
