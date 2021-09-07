@@ -17,9 +17,9 @@ All tasks within SMART! fall within the five user workflows, or personas.
     
 ### [Assessor](/jobs/assessor.html) 
 - [Define required submissions](/jobs/define-submissions.html)
-- [Define the submission frequency and due dates](/jobs/define-submissions.html)
-- [Assign accountable teams to submissions](/jobs/define-submissions.html)
-- [Request feedback on a specific submission](/jobs/define-submissions.html)
+- [Define the submission frequency and due dates](/jobs/define-submissions.html#subfreq)
+- [Assign accountable teams to submissions](/jobs/define-submissions.html#assignteams)
+- [Request feedback on a specific submission](/jobs/define-submissions.html#assignteams)
 - Complete an assessment on behalf of the accountable person (Observation)
 - [Reviewing a submitted assessment](/jobs/assessor-review.html) (in collaboration with the accountable person)
   - Adjust submission responses, add additional actions, comments and evidence
