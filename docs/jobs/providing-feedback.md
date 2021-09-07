@@ -17,14 +17,12 @@ Clicking on the score or target will show a dialog with the description for the 
 ![Image](../assets/screenshots/jobs/scoreTarget.png)
 ![image](../assets/screenshots/jobs/maturityDescription.png)
 
-You are also able to click on any of the maturity level items on the score widget to get a detailed description of what that maturity level is.
-![Image](../assets/screenshots/jobs/scoreWidget.png)
-
 ## Answering Questions
 Once you have entered the assessment questions page you are shown a list of questions for a specific maturity level. Assessments can have one or more maturity levels.
 
-Once you are able to answer all questions on a maturity level as "Yes" then the maturity score will increase. Whilst undertaking a submission, the progress score is displayed in the top right of the window. A score of 2.4 for instance indicates that you are currently on a maturity level 2 and you have answered 40% of the maturity level 3 questions as "Yes". Answers for higher-level maturity levels are not shown and do not affect the score until the current maturity level has been completed. (Reports are able to extract these additional results if they are needed).
-![Image](../assets/screenshots/jobs/scoreWidget.png)
+
+Once you are able to answer all questions on a maturity level as "Yes" then the maturity score will increase. A score of 2.4 for instance indicates that you are currently on a maturity level 2 and you have answered 40% of the maturity level 3 questions as "Yes". Answers for higher-level maturity levels are not shown and do not affect the score until the current maturity level has been completed. (Reports are able to extract these additional results if they are needed).
+
 
 [2nd Line Assurance](/concepts/second-line-assurance.html) questions display a specific ![Image](../assets/screenshots/jobs/secondLineIcon.png) icon to identify them.
 
