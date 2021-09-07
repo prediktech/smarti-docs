@@ -18,8 +18,9 @@ Click the schedule icon ![image](../assets/screenshots/jobs/scheduleIcon.png) ne
 
 Make required changes, and click _SAVE_ when done.
 
-## Define Submission Frequency
-<a name="subfreq"></a>
+
+## Define Submission Frequency <a name="subfreq"></a>
+
 Click the schedule icon ![image](../assets/screenshots/jobs/scheduleIcon.png) next to the submission.
 ![image](../assets/screenshots/jobs/submissionFreq.png)
 
@@ -34,8 +35,8 @@ Click on the date and use the calendar to select the new Start/Due date.
 ![image](../assets/screenshots/jobs/calendar.png)
 
 
-## Assign Teams and Request Feedback 
-<a name="assignteams"></a>
+## Assign Teams and Request Feedback <a name="assignteams"></a>
+
 Click the schedule icon ![image](../assets/screenshots/jobs/scheduleIcon.png) next to the submission.
 
 ![image](../assets/screenshots/jobs/scheduleSubmission.png)
