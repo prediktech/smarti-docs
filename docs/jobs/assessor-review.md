@@ -40,7 +40,7 @@ Rejecting an entire submission will prompt you to create an action as shown belo
 
 Approving a submission will set the submission into an **APPROVED** state. It is possible to set a submission to allow multiple iterations per version. If this is the case and another iteration is required it will be created and placed in a **PENDING** state.
 
-## Close Version
+## Close Version <a name="closeversion"></a>
 The assessor can close a version at any point in time, but this would normally happen after the submissions in that version have been completed and approved.
 ![Image](../assets/screenshots/jobs/closeVersion.png)
 

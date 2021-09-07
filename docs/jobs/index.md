@@ -24,7 +24,7 @@ All tasks within SMART! fall within the five user workflows, or personas.
 - [Reviewing a submitted assessment](/jobs/assessor-review.html) (in collaboration with the accountable person)
   - Adjust submission responses, add additional actions, comments and evidence
   - Approve or reject individual questions and/or submissions
-- [Close a version](/jobs/assessor-review.html)
+- [Close a version](/jobs/assessor-review.html#closeversion)
 - Follow up on improvement actions
 
 ### [Feedback](/jobs/feedback.html) 
