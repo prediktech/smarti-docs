@@ -5,15 +5,15 @@ One of the primary responsibilities of the Assessor is to review assessments tha
 
 ## Tasks
 - [Define required submissions](/jobs/define-submissions.html)
-- [Define the submission frequency and due dates](/jobs/define-submissions.html)
-- [Assign accountable teams to submissions](/jobs/define-submissions.html)
-- [Request feedback on a specific submission](/jobs/define-submissions.html)
+- [Define the submission frequency and due dates](/jobs/define-submissions.html#subfreq)
+- [Assign accountable teams to submissions](/jobs/define-submissions.html#assignteams)
+- [Request feedback on a specific submission](/jobs/define-submissions.html#assignteams)
 - Complete an assessment on behalf of the accountable person (Observation)
 - [Review the submissions once complete](/jobs/assessor-review.html) (in collaboration with the accountable person)
   - Adjust submission responses, add additional actions, comments and evidence
   - Approve or reject individual questions and/or submissions
 - _[Planner role]_ [Create a plan](/jobs/plan.html) to close the identified gaps.
-- [Close a version](/jobs/assessor-review.html)
+- [Close a version](/jobs/assessor-review.html#closeversion)
 - Follow up on improvement actions
 
 ## Workflow
