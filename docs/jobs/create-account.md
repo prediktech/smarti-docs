@@ -24,7 +24,8 @@ When you have been added to your organisation by the system administrator you wi
 1. You will now be logged into the SMART! application, enjoy!
 
 ## Troubleshooting
-If you are not logged in but are instead shown an error page. 
+If you are not logged in but are instead shown an error page.
+- This can sometimes happen after a new account has been created or the password has been changed. Please click on the "Logout" button and try logging back in.  
 - Please double check that you created an account with the correct email address. 
 - Make sure you were on the correct instance of SMART!.
 - Please contact support if you continue to have issues. 
