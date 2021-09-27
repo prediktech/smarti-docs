@@ -15,6 +15,8 @@ Navigate to the Users page
 1. Enter a name or email address. If the name or email address is not found, you will be prompted to invite a new user.
 ![image](../assets/screenshots/jobs/adduser.png)
 1. Fill in the name and email address, select the user role/privileges, click _SAVE_.
+Available privileges (or roles) are: SysAdmin, Company Admin, Team Admin,
+Assignment Admin, Assessor, Planner. _Note: a user may be assigned zero (default, basic user) or multiple priveleges._
 1. The newly created user will be listed as _pending_.
 1. Click the send invite icon ![image](../assets/screenshots/jobs/send-inviteIcon.png). You will then be prompted to send an invite.
 ![image](../assets/screenshots/jobs/send-invite.png). Click COMPLETE.
@@ -25,8 +27,8 @@ The user will receive an email with instructions to [activate their account](../
 ### Edit User
 1. To edit an existing user, click the edit icon ![image](../assets/screenshots/jobs/editIcon.png) next to that user.
 1. You are able to edit the display name, and change privileges.
-Available privileges (or roles) are: Company Admin, Team Admin,
-Assignment Admin, Assessor, Planner.
+Available privileges (or roles) are: SysAdmin, Company Admin, Team Admin,
+Assignment Admin, Assessor, Planner. _Note: a user may be assigned zero (default, basic user) or multiple priveleges._
 1. Click _SAVE_ when done.
 
 ## Manage Teams
@@ -42,10 +44,13 @@ Navigate to the Teams page
     1. Team name
     1. Description
     1. Select the Accountable User
-    1. Select Team Members
+    1. Select Team Members 
     1. Select Area (optional)
 1. If the team is an Assessor Team, check the Assessor box.
-1. Click _SAVE_.
+1. Click _SAVE_.  
+
+> _Note: All configured users are able to be added to any team.  
+For example, if you have assessor permissions you can be added to both assessor and non-assessor teams. In this case the rights of the assessor will override the restrictions of the feedback, meaning you are able to create, read, update and delete actions, comments and evidence (unless the assessment is in an approved state, in which case normal assessor rights will be enacted)._
 
 ### Edit Team
 1. To edit an existing team, click the edit icon ![image](../assets/screenshots/jobs/editIcon.png)
