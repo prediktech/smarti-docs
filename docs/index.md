@@ -8,6 +8,7 @@ With SMART! you'll not only meet, but exceed industry leading practice in compli
 
 ### [Features](/features.html)
 ### [Benefits of SMART!](/benefits.html)
+### [Development Plans](/development-plans.html)
 
 ## How to use the help
 This help site is organised around "jobs to be done" and "key concepts". 

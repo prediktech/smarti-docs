@@ -20,6 +20,7 @@ Below is a list of the key concepts that SMART! is built on.
 - [Planning](/concepts/planning.html)
 
 ## Technical Concepts
+- [Automated Testing Approach](/concepts/testing/testing-approach-fe.html)
 - [Integration Web hooks](/concepts/webhooks.html)
 - [Data access via API Keys](/concepts/api-keys.html)
 - [Email Notifications](/concepts/email-notifications.html)
