@@ -16,5 +16,8 @@ We use the following tools to assist in testing
 ## How to decide what to test or where it goes
 If a change is going to be made to code it has originated either through product improvement or a bug has been found.
 The tester should as the following questions:
-- does this change an existing code journey?
+- Identify the key journeys affected
   - note: review the TEST_PLAN.md for the core journey tests
+- review each feature and see if there is a scenario that needs to be adjusted to cater for the new change.
+- if this is a new feature that was not tested before then a new scenario can be added to cater for it
+- NB: make sure the change is tested on all effected personas (Accountable, Assessor, Feedback, Planner and Administrator)
