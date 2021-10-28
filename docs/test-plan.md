@@ -7,17 +7,17 @@ Each item listed below is a "Feature" which contains multiple "Scenarios". The s
 
 |Persona|Feature File|Description|Implemented|
 |-|-|-|-|
-|Accountable|accountableBasic.feature|Logging in as the accountable user validate that they are able to do assigned submissions. Doing a submission includes answering questions, adding comments, evidence and actions and changing the status of the submission.|<input type="checkbox" checked/>|
-|Accountable|Actions| Accountable users are able to create and manage any actions associated with their submissions. Test CRUD operations of actions as well as closing and reopening |<input type="checkbox">|
-| Assessor | assessorPermissions.feature | This feature will test that an assessor user has all the required permissions depending on the system configuration. Test permissions in relation to reviewing submissions, interacting with evidence, actions and comments, adjusting scores, status changes and closing versions |<input type="checkbox">|
-| Planner | Planner Core | description |<input type="checkbox">|
-| Feedback | feedbackSubmit.feature | Test that if a user is requested to give feedback they are able to access that submissions and test the limited permissions that should be enforced for a feedback user. Test the feedback submit mechanism. |<input type="checkbox">|
-| Administrator | System User Management | description |<input type="checkbox">|
-| Administrator | System Settings | description |<input type="checkbox">|
-| Administrator | Site User and Team Management | description |<input type="checkbox">|
-| Administrator | Assessment Management | description |<input type="checkbox">|
-| Administrator | Core Question Management | description |<input type="checkbox">|
-| Administrator | Assessment Scheduling | description |<input type="checkbox">|
+|Accountable|accountableBasic.feature|Logging in as the accountable user validate that they are able to do assigned submissions. Doing a submission includes answering questions, adding comments, evidence and actions and changing the status of the submission.|<input type="checkbox" disabled checked/>|
+|Accountable|Actions| Accountable users are able to create and manage any actions associated with their submissions. Test CRUD operations of actions as well as closing and reopening |<input type="checkbox" disabled>|
+| Assessor | assessorPermissions.feature | This feature will test that an assessor user has all the required permissions depending on the system configuration. Test permissions in relation to reviewing submissions, interacting with evidence, actions and comments, adjusting scores, status changes and closing versions |<input type="checkbox" disabled>|
+| Planner | Planner Core | description |<input type="checkbox" disabled>|
+| Feedback | feedbackSubmit.feature | Test that if a user is requested to give feedback they are able to access that submissions and test the limited permissions that should be enforced for a feedback user. Test the feedback submit mechanism. |<input type="checkbox" disabled>|
+| Administrator | System User Management | description |<input type="checkbox" disabled>|
+| Administrator | System Settings | description |<input type="checkbox" disabled>|
+| Administrator | Site User and Team Management | description |<input type="checkbox" disabled>|
+| Administrator | Assessment Management | description |<input type="checkbox" disabled>|
+| Administrator | Core Question Management | description |<input type="checkbox" disabled>|
+| Administrator | Assessment Scheduling | description |<input type="checkbox" disabled>|
 
 Additional test journeys need to be discussed and approved before they are added.
 
