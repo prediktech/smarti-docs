@@ -26,9 +26,17 @@ The user will receive an email with instructions to [activate their account](../
 
 ### Edit User
 1. To edit an existing user, click the edit icon ![image](../assets/screenshots/jobs/editIcon.png) next to that user.
-1. You are able to edit the display name, and change privileges.
-Available privileges (or roles) are: SysAdmin, Company Admin, Team Admin,
-Assignment Admin, Assessor, Planner. _Note: a user may be assigned zero (default, basic user) or multiple priveleges._
+1. You are able to edit the display name, and change privileges.  
+
+    Available privileges (or roles) are: 
+    - SysAdmin: _maintains the functions that have system wide impact_
+    - Company Admin: _maintains the functions that have company wide impact_
+    - Team Admin: _maintains the functions that have team wide impact_
+    - Assignment Admin: _maintains the functions that have assignment wide impact_
+    - Assessor: _reviews and adjusts submissions as required_
+    - Planner: _plans execution of actions created in the system to close identified gaps_ 
+    
+    _Note: a user may be assigned zero (default, basic user) or multiple priveleges._
 1. Click _SAVE_ when done.
 
 ## Manage Teams
