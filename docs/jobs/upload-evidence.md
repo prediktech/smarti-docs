@@ -26,7 +26,8 @@ Selected files will be shown as _pending_. Click the _"UPLOAD"_ button to add th
 ![Image](../assets/screenshots/jobs/evidence-uploadfile.png)
 
 ### Browse Existing
-Browse Existing allows you to select files that have been previously uploaded. Click the _"BROWSE EXISTING"_ button. Search for the required file(s) using the search bar, or select from the list shown. Select the desired file(s) via the checkbox on the left, then click _"SELECT"_.  
+Browse Existing allows you to select files that have been previously uploaded. Click the _"BROWSE EXISTING"_ button. Search for the required file(s) using the search bar, or select from the list shown. Select the desired file(s) via the checkbox on the left, then click _"SELECT"_. 
+![Image](../assets/screenshots/jobs/evidence-browseExisting.png) 
 Selected files will be shown as _pending_. Click the _"UPLOAD"_ button to add the file(s).
 
 Once an evidence record has been created with links or files, you are able to edit via the ![Image](../assets/screenshots/jobs/editIcon.png) icon. Links are able to be copied, or opened in a browser, and files are able to be downloaded.
