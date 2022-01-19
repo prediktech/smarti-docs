@@ -3,6 +3,7 @@
 All tasks within SMART! fall within the five user workflows, or personas. 
  
 [Creating an account](/jobs/create-account.html)  
+[Resetting your password](/jobs/reset-password.html)  
 >## [Personas](/jobs/persona.html)
 
 ### [Accountable](/jobs/accountable.html)  
