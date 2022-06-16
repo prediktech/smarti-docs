@@ -6,6 +6,8 @@ SMART! [pronounced smart-y] helps you and your organisation keep the important t
 
 With SMART! you'll not only meet, but exceed industry leading practice in compliance and maturity across all aspects of your business, be it in the management or technical arena.
 
+### [Current Release Notes](/releasenotes/ReleaseNotes_06.html)
+
 ### [Features](/features.html)
 ### [Benefits of SMART!](/benefits.html)
 ### [Development Plans](/development-plans.html)
