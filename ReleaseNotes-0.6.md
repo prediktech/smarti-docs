@@ -30,3 +30,7 @@ Build Release 0.6-Beta-0.1
     ![Image](/docs/assets/releasenotes/status.png)
     ![Image](/docs/assets/releasenotes/workflow.png)
 
+## Issues
+- Multiple bug fixes
+- Action load performance
+
