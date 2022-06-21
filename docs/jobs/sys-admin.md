@@ -17,6 +17,7 @@ The system administrators maintain the functions that have system wide impact. M
 - [Manage Qualities](/jobs/manage-qualities.html)
 - Manage integration (API keys, Web hooks) 
 - [Manage notifications (Email)](/jobs/manage-notifications.html)
+- [Manage status and workflows](/jobs/manage-status-workflows.html)
 
 ## Workflow
 ![image](../assets/screenshots/persons/SysAdminWorkflow.png)
