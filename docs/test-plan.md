@@ -1,5 +1,5 @@
 # Test Plan
-The plan that is our core guide to what needs to be tested. Check out our [testing approach](/concepts/testing/testing-approach-fe.html) if you would like to know more about how we test and why.
+The plan that is our core guide to what needs to be tested. Check out our [testing approach](/concepts/testing/testing-approach-fe.md) if you would like to know more about how we test and why.
 
 Each item listed below is a "Feature" which contains multiple "Scenarios". The scenarios cover different aspects of the user journey. For example a feature for Accountable will contain a scenario for each of the permissions and system settings that affect the user.
 
