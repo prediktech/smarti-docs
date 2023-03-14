@@ -53,6 +53,6 @@ All tasks within SMART! fall within the five user workflows, or personas.
 
 >## Best Practices
 - [Capturing standards and requirements](/jobs/best-practice-standards.md)
-- [Shaping amazing questions]()
+<!-- - [Shaping amazing questions]() -->
 - [Designing assessments based on your audience](/jobs/designing-assessments.md)
-- [How to use planning to close the maturity loop]()
+<!-- - [How to use planning to close the maturity loop]() -->
