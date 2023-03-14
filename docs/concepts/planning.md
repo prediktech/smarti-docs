@@ -7,6 +7,6 @@ Within SMART!, we’ve changed the concept a little bit. Our objectives are not 
 
 You can create any number of objectives and you can create any number of metrics to measure those objectives. The planning module allows you to create objectives, and within those objectives define key results. Within each objective you can then also define initiatives or plans. The initiatives have key results and actions that need to be completed in order to achieve those initiatives.
 
-A plan has multiple time horizons. Within SMART! you are able to [create two types of plans](/jobs/plan.html) - a _maturity plan_, and a _generic plan_. A maturity plan is linked to assessments and the maturity scores and targets are set based on those assessments. A generic plan has key results, and initiatives that have key results, but it is not linked to the assessments.
+A plan has multiple time horizons. Within SMART! you are able to [create two types of plans](/jobs/plan.md) - a _maturity plan_, and a _generic plan_. A maturity plan is linked to assessments and the maturity scores and targets are set based on those assessments. A generic plan has key results, and initiatives that have key results, but it is not linked to the assessments.
 
 You may have multiple plans, however only one plan may be active at any one time. The key results available are based on the current plan only.

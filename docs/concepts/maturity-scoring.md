@@ -4,7 +4,7 @@ The maturity score indicates compliance to the questions within the maturity lev
 
 >NB: Answers for higher-level maturity levels are not shown and do not affect the score until the current maturity level has been completed. (Reports are able to extract these additional results if they are needed).
 
-![Image](/assets/screenshots/concepts/scoreWidget.png)
+![Image](../assets/screenshots/concepts/scoreWidget.png)
 
 As questions are answered within the assessment, a progress score is calculated and displayed in the right-hand area of the assessment screen.
 

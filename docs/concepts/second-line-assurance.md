@@ -10,7 +10,7 @@ Second line of assurance questions are related to statutory, high risk, or criti
 
 When answering second line assurance questions the system can be configured to prompt the user to provide either evidence or actions based on the answer provided. If the business rules are not met the submission will be highlighted as **non-conforming**.
 
-_See also [Maturity and Criticality](/jobs/maturity-and-criticality.html)._
+_See also [Maturity and Criticality](/jobs/maturity-and-criticality.md)._
 
 ## Configuration
 When configuring a submission there is an option to choose the non-compliance prompt. (None, Second Line Only, All non-compliance). 

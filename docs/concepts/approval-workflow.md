@@ -1,7 +1,7 @@
 # Approval Workflow
 The approval workflow is provided to allow for opportunities to discuss the submissions and make corrections/adjustments quickly.
 
-![Image](/assets/screenshots/concepts/BasicApprovalWorkflow.png)
+![Image](../assets/screenshots/concepts/BasicApprovalWorkflow.png)
 
 **Pending:** When a new version or new iteration of a submission is created it is placed in the pending state.
 Results, open actions and evidence records are carried over to the new version. 
