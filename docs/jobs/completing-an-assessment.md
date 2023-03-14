@@ -27,7 +27,7 @@ Once you have entered the assessment questions page you are shown a list of ques
 Once you are able to answer all questions on a maturity level as "Yes" then the maturity score will increase. Whilst undertaking a submission, the progress score is displayed in the top right of the window. A score of 2.4 for instance indicates that you are currently on a maturity level 2 and you have answered 40% of the maturity level 3 questions as "Yes". Answers for higher-level maturity levels are not shown and do not affect the score until the current maturity level has been completed. (Reports are able to extract these additional results if they are needed).
 ![Image](../assets/screenshots/jobs/scoreWidget.png)
 
-[2nd Line Assurance](/concepts/second-line-assurance.html) questions display a specific ![Image](../assets/screenshots/jobs/secondLineIcon.png) icon to identify them.
+[2nd Line Assurance](/concepts/second-line-assurance.md) questions display a specific ![Image](../assets/screenshots/jobs/secondLineIcon.png) icon to identify them.
 
 The requirements linked to a specific question can be accessed by clicking on the ![Image](../assets/screenshots/jobs/reqIcon.png) icon next to the quality name.
 
@@ -39,7 +39,7 @@ If you answer **Yes** to a question it is recommended that you also provide **ev
 
 If you answer **No** to a question it is recommended that you create an **action** to indicate how this situation will be resolved in the future.
 
-See below the icons available for each question that allows you to add Comments, Evidence and Actions respectively. (The final icon indicates areas are active on this submission, see [Areas](/concepts/areas.html).)
+See below the icons available for each question that allows you to add Comments, Evidence and Actions respectively. (The final icon indicates areas are active on this submission, see [Areas](/concepts/areas.md).)
 ![Image](../assets/screenshots/jobs/aecScreens.png)
 
 Click on "NEXT" to keep going with the submission or "EXIT" to return to the Assessment summary page.
@@ -53,10 +53,10 @@ The % complete of this submission is calculated based on the number of items mar
 Click on the REVIEW button once done to review the submissions assigned to you as well as submit the submissions for approval.
 
 ### Next Step
-[Review Submission](/jobs/acc-review-before-submit.html)
+[Review Submission](/jobs/acc-review-before-submit.md)
 
 ## Additional items
-- [What is second line assurance and why am I getting errors or warnings?](/concepts/second-line-assurance.html)
-- [Actions](/concepts/actions.html)
-- [Evidence](/concepts/evidence.html)
-- [Comments](/concepts/comments.html)
+- [What is second line assurance and why am I getting errors or warnings?](/concepts/second-line-assurance.md)
+- [Actions](/concepts/actions.md)
+- [Evidence](/concepts/evidence.md)
+- [Comments](/concepts/comments.md)

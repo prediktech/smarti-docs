@@ -24,7 +24,7 @@ Once you have entered the assessment questions page you are shown a list of ques
 Once you are able to answer all questions on a maturity level as "Yes" then the maturity score will increase. A score of 2.4 for instance indicates that you are currently on a maturity level 2 and you have answered 40% of the maturity level 3 questions as "Yes". Answers for higher-level maturity levels are not shown and do not affect the score until the current maturity level has been completed. (Reports are able to extract these additional results if they are needed).
 
 
-[2nd Line Assurance](/concepts/second-line-assurance.html) questions display a specific ![Image](../assets/screenshots/jobs/secondLineIcon.png) icon to identify them.
+[2nd Line Assurance](/concepts/second-line-assurance.md) questions display a specific ![Image](../assets/screenshots/jobs/secondLineIcon.png) icon to identify them.
 
 The requirements linked to a specific question can be accessed by clicking on the ![Image](../assets/screenshots/jobs/reqIcon.png) icon next to the quality name.
 

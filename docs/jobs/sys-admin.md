@@ -6,18 +6,18 @@ The system administrators maintain the functions that have system wide impact. M
 > NB: The system admin account should only be used for configuration and never assigned to assessments or teams. 
 
 ## Tasks
-- [Configure SMART! instance, customising display](/jobs/configure-instance.html)
-- [Configure companies](/jobs/configure-companies.html)
-- [Manage users and teams](/jobs/manage-users.html) 
-- [Manage system business rules](/jobs/rule-profiles.html) and enabled features
-- [Manage Standards and requirements](/jobs/manage-standards.html)
-- [Manage Assessment structure](/jobs/manage-assessment.html)
-- [Manage Question Catalogue](/jobs/manage-questions.html)
-- [Manage Maturity Scales](/jobs/maturity-scales.html)
-- [Manage Qualities](/jobs/manage-qualities.html)
+- [Configure SMART! instance, customising display](/jobs/configure-instance.md)
+- [Configure companies](/jobs/configure-companies.md)
+- [Manage users and teams](/jobs/manage-users.md) 
+- [Manage system business rules](/jobs/rule-profiles.md) and enabled features
+- [Manage Standards and requirements](/jobs/manage-standards.md)
+- [Manage Assessment structure](/jobs/manage-assessment.md)
+- [Manage Question Catalogue](/jobs/manage-questions.md)
+- [Manage Maturity Scales](/jobs/maturity-scales.md)
+- [Manage Qualities](/jobs/manage-qualities.md)
 - Manage integration (API keys, Web hooks) 
-- [Manage notifications (Email)](/jobs/manage-notifications.html)
-- [Manage status and workflows](/jobs/manage-status-workflows.html)
+- [Manage notifications (Email)](/jobs/manage-notifications.md)
+- [Manage status and workflows](/jobs/manage-status-workflows.md)
 
 ## Workflow
 ![image](../assets/screenshots/persons/SysAdminWorkflow.png)

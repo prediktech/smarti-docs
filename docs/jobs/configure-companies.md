@@ -28,4 +28,4 @@ Click OK to confirm.
 ## Set as default, make active, add teams and users
 Click the appropriate buttons to set the company as default, make active, and add teams and users.
 ![image](../assets/screenshots/jobs/manage-companies.png)
-For more information on adding teams and users, see [Manage Users and Teams](/jobs/manage-users.html).
+For more information on adding teams and users, see [Manage Users and Teams](/jobs/manage-users.md).

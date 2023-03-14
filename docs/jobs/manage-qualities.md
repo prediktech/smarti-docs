@@ -15,7 +15,7 @@ The following fields are available: Core Import Id, Name, Description, Tags.
 **Core Import Id** - A unique id used when importing and exporting data from the database.  
 **Name** - Quality name  
 **Description** - Quality description  
-**Tags** - Used as groupings for items (tags are selected from the configured list, or you can add more via [Manage Tags](/jobs/manage-tags.html)).
+**Tags** - Used as groupings for items (tags are selected from the configured list, or you can add more via [Manage Tags](/jobs/manage-tags.md)).
 Once changes have been made, click the _SAVE_ button.  
 
 ## Delete Quality

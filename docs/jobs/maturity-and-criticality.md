@@ -14,4 +14,4 @@ If this is not completed, then the submission will be highlighted as non-conform
 - ![Image](../assets/screenshots/jobs/warningIcon.png) Warning icon for Maturity 1 question answered Yes with no evidence or comment.
 - ![Image](../assets/screenshots/jobs/errorIcon.png) Alert icon for Maturity 1 question answered No with no action assigned.
 
-_see [Second Line Assurance](/concepts/second-line-assurance.html) for more details._
+_see [Second Line Assurance](/concepts/second-line-assurance.md) for more details._
