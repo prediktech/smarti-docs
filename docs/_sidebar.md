@@ -4,23 +4,37 @@
 * [Features](features.md)
 * [Benefits](benefits.md)
 * [Jobs to be done](jobs/)
-  * [Accountable](/jobs/accountable.md)  
-  * [Assessor](/jobs/assessor.md) 
-  * [Feedback](/jobs/feedback.md) 
-  * [Planner](/jobs/planner.md)
-  * [System Administrator](/jobs/sys-admin.md)
-* Accounts
-* Personas
-* Accountable
-* Assessor
-* Feedback
-* Planner
-* Administrator
-* Key Concepts
-* //get links from concepts/index.md
+  - [Personas](/jobs/persona.md)  
+  - [Accountable](/jobs/accountable.md)  
+  - [Assessor](/jobs/assessor.md) 
+  - [Feedback](/jobs/feedback.md) 
+  - [Planner](/jobs/planner.md)
+  - [System Administrator](/jobs/sys-admin.md)
+* [Key Concepts](concepts/)
+  - [Screen Layout](/concepts/screen-layout.md)
+  - [Maturity Scoring](/concepts/maturity-scoring.md)
+  - [Approval Workflow](/concepts/approval-workflow.md)
+  - [Actions in detail](/concepts/actions.md)
+  - [Evidence](/concepts/evidence.md)
+  - [Comments](/concepts/comments.md)
+  - [Standards and Requirements](/concepts/standards-requirements.md)
+  - [Question Catalogue](/concepts/question-catalogue.md)
+  - [Assessments](/concepts/assessments.md)
+  - [Companies, sites, departments and the teams that make them work](/concepts/companies-teams.md) 
+  - [Metadata](/concepts/meta-data.md)
+  - [Second Line Assurance](/concepts/second-line-assurance.md)
+  - [Maturity and Criticality](/jobs/maturity-and-criticality.md)
+  - [Areas](/concepts/areas.md)
+  - [Planning](/concepts/planning.md)
+  - Technical Concepts
+    * [Automated Testing Approach](/concepts/testing/testing-approach-fe.md)
+    * [Integration Web hooks](/concepts/webhooks.md)
+    * [Data access via API Keys](/concepts/api-keys.md)
+    * [Email Notifications](/concepts/email-notifications.md)
+    * [Auditing](/concepts/auditing.md)
+    * [Database Reset](/concepts/database-reset.md)
 * Best Practices
-* //get links from jobs/index.md
-* Terms of Use
-* //link to termsofservice.md
-* Privacy Statement
-* //link to privacystatement.md
+  - [Capturing standards and requirements](/jobs/best-practice-standards.md)
+  - [Designing assessments based on your audience](/jobs/designing-assessments.md)
+* [Terms of Use](termsofservice.md)
+* [Privacy Statement](privacystatement.md)
