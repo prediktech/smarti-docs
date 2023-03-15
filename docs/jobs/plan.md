@@ -5,7 +5,7 @@ All plans or initiatives are created and managed through the Planning module. To
 
 You may have multiple plans, however only one plan may be active at any one time. The key results available are based on the current plan only.
 
-Plans must be associated with an objective, and cannot be created without first [creating an objective](../jobs/objective.html).
+Plans must be associated with an objective, and cannot be created without first [creating an objective](jobs/objective.md).
 
 There are two types of plans - maturity plan, and generic plan.
 
@@ -16,7 +16,7 @@ To create a new maturity plan, click NEW on the right of the screen. A dialogue 
 Step 1: Enter details of the plan  
 ![Image](../assets/screenshots/jobs/maturityplan-step1.png)
 
-If you have navigated to the Initiatives page from [Objectives](../jobs/objective.html) the linked objective field within any plan you create will be pre-populated.
+If you have navigated to the Initiatives page from [Objectives](jobs/objective.md) the linked objective field within any plan you create will be pre-populated.
 
 Initiative group is the plan time horizon, e.g., weekly, monthly, yearly, etc.
 
@@ -37,7 +37,7 @@ A list of all actions within the assessment(s) selected in the previous step is 
 Your maturity plan has been created.  
 ![Image](../assets/screenshots/jobs/maturityplan-created.png)
 
-Once a plan has been created,  [key results](../jobs/key-results.html) may be added.
+Once a plan has been created,  [key results](jobs/key-results.md) may be added.
 
 ## Generic Plan
 A generic plan has key results, and initiatives that have key results, but it is not linked to the assessments.
@@ -48,7 +48,7 @@ Step 1: Enter details of the plan. For a generic plan, ensure you click _Generic
 
 ![Image](../assets/screenshots/jobs/addgenericplan.png)
 
-If you have navigated to the Initiatives page from [Objectives](../jobs/objective.html) the linked objective field within any plan you create will be pre-populated.
+If you have navigated to the Initiatives page from [Objectives](jobs/objective.md) the linked objective field within any plan you create will be pre-populated.
 
 Initiative group is the plan time horizon, e.g., weekly, monthly, yearly, etc.
 
@@ -59,4 +59,4 @@ Click _SAVE_.
 Your generic plan has been created.
 ![image](../assets/screenshots/jobs/genericplan-created.png)
 
-Once a plan has been created, [key results](../jobs/key-results.html) may be added.
+Once a plan has been created, [key results](jobs/key-results.md) may be added.

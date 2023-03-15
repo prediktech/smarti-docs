@@ -30,7 +30,7 @@ Changes to structural components (elements, sub-elements, requirements, etc.) ar
 ## Add Requirement
 1. To add requirements, open (or edit) the relevant documention. Navigate to the location within the doucmentation (e.g., element, sub-element) then click _ADD REQUIREMENT_. Fill in details (reference, name, and description), click _SAVE_. This creates the requirement and allows you to add documentation, map the requirement to questions.  
 ![image](../assets/screenshots/jobs/addRequirement.png)
-1. A requirement may be marked as "Mandatory" by ticking the check box. The check box is a flag that this requirement is assessable by the business (internal) assurance teams. For more details, refer to [Second Line Assurance](../concepts/second-line-assurance.html).
+1. A requirement may be marked as "Mandatory" by ticking the check box. The check box is a flag that this requirement is assessable by the business (internal) assurance teams. For more details, refer to [Second Line Assurance](../concepts/second-line-assurance.md).
 
 You may attach links or files to a requirement. You may also add questions.
 To add a link or file, click the _Show Documentation_ icon ![image](../assets/screenshots/jobs/showDocumentationIcon.png).

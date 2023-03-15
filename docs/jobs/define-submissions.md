@@ -11,7 +11,7 @@ You can add a submission to the current version of an assessment by clicking _AD
 
 Fill in the fields and click _SAVE_ when done. 
 
-_For information on rule profiles, see [Rule Profiles](/jobs/rule-profiles.html)._
+_For information on rule profiles, see [Rule Profiles](/jobs/rule-profiles.md)._
 
 ## Edit Submission
 Click the schedule icon ![image](../assets/screenshots/jobs/scheduleIcon.png) next to the submission.

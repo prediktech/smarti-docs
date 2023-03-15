@@ -1,0 +1,42 @@
+<!-- docs/_sidebar.md -->
+
+* [Home](/)
+* [Features](features.md)
+* [Benefits](benefits.md)
+* Jobs to be done
+  - [Overview](jobs/)  
+  - [Personas](jobs/persona.md)  
+  - [Accountable](jobs/accountable.md)  
+  - [Assessor](jobs/assessor.md) 
+  - [Feedback](jobs/feedback.md) 
+  - [Planner](jobs/planner.md)
+  - [System Administrator](jobs/sys-admin.md)
+* Key Concepts
+  - [Screen Layout](/concepts/screen-layout.md)
+  - [Maturity Scoring](/concepts/maturity-scoring.md)
+  - [Approval Workflow](/concepts/approval-workflow.md)
+  - [Actions in detail](/concepts/actions.md)
+  - [Evidence](/concepts/evidence.md)
+  - [Comments](/concepts/comments.md)
+  - [Standards and Requirements](/concepts/standards-requirements.md)
+  - [Question Catalogue](/concepts/question-catalogue.md)
+  - [Assessments](/concepts/assessments.md)
+  - [Companies, sites, departments and the teams that make them work](/concepts/companies-teams.md) 
+  - [Metadata](/concepts/meta-data.md)
+  - [Second Line Assurance](/concepts/second-line-assurance.md)
+  - [Maturity and Criticality](jobs/maturity-and-criticality.md)
+  - [Areas](/concepts/areas.md)
+  - [Planning](/concepts/planning.md)
+* Technical Concepts
+  - [Automated Testing Approach](/concepts/testing/testing-approach-fe.md)
+  - [Integration Web hooks](/concepts/webhooks.md)
+  - [Data access via API Keys](/concepts/api-keys.md)
+  - [Email Notifications](/concepts/email-notifications.md)
+  - [Auditing](/concepts/auditing.md)
+  - [Database Reset](/concepts/database-reset.md)
+* Best Practices
+  - [Capturing standards and requirements](jobs/best-practice-standards.md)
+  - [Designing assessments based on your audience](jobs/designing-assessments.md)
+* Legal
+  - [Terms of Use](termsofservice.md)
+  - [Privacy Statement](privacystatement.md)

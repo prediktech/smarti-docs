@@ -6,9 +6,9 @@ The planning module consists of two areas - Objectives and Initiative / Plan. Th
 ![Image](../assets/screenshots/jobs/planning-menu.png)
 
 ## Objectives
-Within the [Objectives](../jobs/objective.html) area you are able to view and search existing objectives, create new objectives, add key results and edit objectives and key results.
+Within the [Objectives](jobs/objective.md) area you are able to view and search existing objectives, create new objectives, add key results and edit objectives and key results.
 ![image](../assets/screenshots/jobs/objectives.png)
 
 ## Initiatives
-Within the [Initiatives / Plans](../jobs/plan.html) area you are able to view and search existing plans; create new plans; and view, edit and create key results. 
+Within the [Initiatives / Plans](jobs/plan.md) area you are able to view and search existing plans; create new plans; and view, edit and create key results. 
 ![Image](../assets/screenshots/jobs/plans.png)

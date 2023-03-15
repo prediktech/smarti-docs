@@ -10,7 +10,7 @@ The submission can be expanded to display all the sections that have been config
 
 ![Image](../assets/screenshots/jobs/AccReview-editresults.png)
 
-Create an action or add comments and [evidence](/jobs/upload-evidence.html) for the non-conforming question.
+Create an action or add comments and [evidence](/jobs/upload-evidence.md) for the non-conforming question.
 
 
 

@@ -22,7 +22,7 @@ Assignment Admin, Assessor, Planner. _Note: a user may be assigned zero (default
 ![image](../assets/screenshots/jobs/send-invite.png). Click COMPLETE.
 1. The user has been added.
 
-The user will receive an email with instructions to [activate their account](../jobs/create-account.html).
+The user will receive an email with instructions to [activate their account](jobs/create-account.md).
 
 ### Edit User
 1. To edit an existing user, click the edit icon ![image](../assets/screenshots/jobs/editIcon.png) next to that user.

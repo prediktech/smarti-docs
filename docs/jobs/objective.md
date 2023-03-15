@@ -26,7 +26,7 @@ Key results at the objective level are able to be updated or modified from this 
 
 If you make changes to the values or key results, you will be prompted to save.
 
-To create or associate a plan or initiative with the objective, you can navigate to the [Initiative / Plan](../jobs/plan.html) page via the menu, or click on the plan icon.
+To create or associate a plan or initiative with the objective, you can navigate to the [Initiative / Plan](jobs/plan.md) page via the menu, or click on the plan icon.
 ![image](../assets/screenshots/jobs/view-plan.png)
 
 

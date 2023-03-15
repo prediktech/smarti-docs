@@ -50,7 +50,7 @@ The assessor can choose to simply close the version and not create a new version
 
 Or, (**recommended**) the assessor creates a new version by leaving the “Copy and create new version on close” box ticked. The details for the new version can easily be modified at a later date.
 
-If Reset Scores has been enabled and configured (see [Rule Profiles](/jobs/rule-profiles.html) on how to configure), the Assessor will be asked to reset scores on closing a version.
+If Reset Scores has been enabled and configured (see [Rule Profiles](/jobs/rule-profiles.md) on how to configure), the Assessor will be asked to reset scores on closing a version.
 ![image](../assets/screenshots/jobs/resetscores.png)
 
 

@@ -29,6 +29,6 @@ From this page you are able to add new workflows, view and copy base workflows, 
 
 > Note that base workflows are unable to be edited.
 
-For more information on the base/core workflows, see [Base Workflow Descriptions](/jobs/base-workflows.html).
+For more information on the base/core workflows, see [Base Workflow Descriptions](/jobs/base-workflows.md).
 
 

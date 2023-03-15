@@ -6,6 +6,10 @@ https://docs.prediktech.com/
 > Always fetch from github before you make changes this way you are always working on the newest files. 
 ![Image](/docs/assets/screenshots/github-fetch.png)
 
+## Running the docs locally
+ - Make sure you have have installed docsify globally. Use `npm i docsify-cli -g` if you need to install it
+ - Run a local server with `docsify serve ./docs`
+
 ## Setup project to work locally
 1. download and install [Github Desktop](https://desktop.github.com/)
 2. Go to the (smarti-docs github site)[https://github.com/prediktech/smarti-docs]

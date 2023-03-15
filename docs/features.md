@@ -27,4 +27,4 @@ SMART! is offered at two levels, Enterprise and Basic.
 | Microsoft Azure Identify Framework |Yes|Yes|
 | Deployment to client Azure Subscription|Yes|No|
 
-[SMART! Benefits](/benefits.html)
+[SMART! Benefits](/benefits.md)

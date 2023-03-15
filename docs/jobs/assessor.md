@@ -4,16 +4,16 @@ One of the primary responsibilities of the Assessor is to review assessments tha
 > NB: An assessor is able to modify responses on behalf of the accountable person. The assessor is also able to add actions, comments and evidence as needed.
 
 ## Tasks
-- [Define required submissions](/jobs/define-submissions.html)
-- [Define the submission frequency and due dates](/jobs/define-submissions.html#subfreq)
-- [Assign accountable teams to submissions](/jobs/define-submissions.html#assignteams)
-- [Request feedback on a specific submission](/jobs/define-submissions.html#assignteams)
+- [Define required submissions](/jobs/define-submissions.md)
+- [Define the submission frequency and due dates](/jobs/define-submissions.md#subfreq)
+- [Assign accountable teams to submissions](/jobs/define-submissions.md#assignteams)
+- [Request feedback on a specific submission](/jobs/define-submissions.md#assignteams)
 - Complete an assessment on behalf of the accountable person (Observation)
-- [Review the submissions once complete](/jobs/assessor-review.html) (in collaboration with the accountable person)
+- [Review the submissions once complete](/jobs/assessor-review.md) (in collaboration with the accountable person)
   - Adjust submission responses, add additional actions, comments and evidence
   - Approve or reject individual questions and/or submissions
-- _[Planner role]_ [Create a plan](/jobs/plan.html) to close the identified gaps.
-- [Close a version](/jobs/assessor-review.html#closeversion)
+- _[Planner role]_ [Create a plan](/jobs/plan.md) to close the identified gaps.
+- [Close a version](/jobs/assessor-review.md#closeversion)
 - Follow up on improvement actions
 
 ## Workflow
@@ -25,7 +25,7 @@ The review tab highlights issues to be corrected prior to submission approval.
 
 ![Image](../assets/screenshots/persons/assessorReviewOverview.png)
 
-**Alerts:** These alerts are provided to highlight if 2nd Line of Assurance (High Risk) questions have been completed correctly. _(see [Second Line Assurance](/concepts/second-line-assurance.html) for more details)_
+**Alerts:** These alerts are provided to highlight if 2nd Line of Assurance (High Risk) questions have been completed correctly. _(see [Second Line Assurance](/concepts/second-line-assurance.md) for more details)_
 
 Assessors will likely have the ability to create assessment submissions, allocate those submissions and then review the results when they have been completed.
 
