@@ -5,6 +5,7 @@
 * [Benefits](benefits.md)
 * [Assessments](/v3/assessment/overview.md)
   - [Create Assessment](/v3/assessment/create.md)
+  - [Verification Options](/v3/assessment/verifications.md)
 * [Plans](/v3/plan/overview.md)
 * [Risk](/v3/risk/overview.md)
 * Archived
