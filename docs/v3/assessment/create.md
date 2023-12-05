@@ -121,6 +121,9 @@ The required format is specified on the dialog but and example would be
 
 __NB:__ each verification must only be one one row if you have new line characters in the text it will fail to import.
 
+#### Next Steps
+
+#### Required Evidence
 
 ## Done
 Once you have added all the verifications, save the assessment and you are ready to create some submissions.
