@@ -1,6 +1,6 @@
 # Terms of Service
 
-smart! runs on Microsoft Azure and by using the application you agree to the terms of use specified by Azure. [terms of us](https://azure.microsoft.com/en-us/support/legal)
+smart! runs on Microsoft Azure and by using the application you agree to the terms of use specified by Azure. [terms of use](https://azure.microsoft.com/en-us/support/legal)
 
 Your use of the smart! service is governed by the terms and conditions of the agreement under which you obtained the services.
 
